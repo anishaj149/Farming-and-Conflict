@@ -1,0 +1,45 @@
+
+
+Curiosity led the cybersleuth to seek the virus writer
+The Associated Press
+March 31, 1999, Wednesday, PM cycle
+
+ Copyright 1999 Associated Press  All Rights Reserved
+Section: Business News
+Length: 681 words
+Byline: LESLIE MILLER, Associated Press Writer
+Dateline: CAMBRIDGE, Mass.
+Body
+
+
+
+
+As a boy growing up in the '60s, Richard Smith loved reading books about FBI agents tracking down criminals by matching typed letters with typewriters.
+Now as a software company president, he may have accomplished the cyberspace equivalent. Smith has found clues linking a teen-age boy with the creation of "Melissa," one of the fastest spreading computer viruses in history.
+"What I did was poke around," said the mild-mannered Smith, 45, from his offices on the second-floor of a brick building in a nondescript section of Cambridge, home to Harvard, M.I.T and some of the world's top computer scientists.
+What Smith did was find clues to the identity of the programmer or programmers who launched the virus, as well as evidence that could lead to the computer that wrote the program. He has turned that information over to the FBI, which is investigating.
+Melissa, a virus that acts like an electronic chain letter, clogged or crippled the e-mail systems of thousands of companies and government offices starting last Friday. It comes to victims disguised as an e-mail from a friend, with a note saying that an important document is attached. Once the victim opens up the document, the virus digs into the computer's address book and sends the same e-mail to the first 50 names it finds.
+Smith believes Melissa's author, or one of them, is a teen-age boy with a record of virus writing who uses the computer handle "VicodinES," which is the name of a narcotic painkiller.
+The youth is suspected of stealing an America Online password and using the account to spread at least three viruses since December 1997.
+The hacker, who Smith calls "the Vicodin guy," is motivated by equal parts malice and a fascination with how things work, Smith speculates.
+It's a curiosity he himself has harbored since his own high school years, when he took night computer classes at the University of Florida at Gainesville with his father.
+Smith majored in computer science at North Carolina State when the discipline was still young in 1971.
+Now, he's president of Phar Lap Software, a company he cofounded in 1986 that develops computer operating systems for ATMs, slot machines and medical instruments.
+Finding clues to the Melissa virus programmers is the third in a remarkable string of recent discoveries Smith has made by just poking around with his laptop.
+Two months ago, he discovered a Microsoft bug that will prevent some of the company's software applications from recognizing daylight savings time for a week.
+One month ago he caught the world's attention when he identified a secret serial number - a digital fingerprint - left on every document file in the popular Microsoft Office package of software applications. Smith revealed the company was compiling the serial numbers of its users' computers in a database, raising cries of outrage from privacy advocates. Microsoft promised to let users eliminate the fingerprint.
+At the time, Smith wondered if the digital fingerprint would have any value in tracking down viruses.
+On Saturday, he found out it did.
+Working at his home office in a Boston suburb- with his wife and 13-year-old daughter in the same room surfing the Web on their own laptops - Smith noticed a virus alert had been posted.
+The alert said a virus had been e-mailed Friday from an America Online account, later discovered to belong to a civil engineer in Lynnwood, Wash.
+Smith also received an e-mail from a Stockholm University student, who pointed out similarities between the work of VicodinES and Melissa.
+In December 1997, the same America Online account had posted a similar virus and Smith found digital fingerprints linking VicodinES to that virus.
+He further discovered VicodinES had done something more dangerous than launch the virus: posting tool kits on a Web site that helps people create their own viruses.
+He directed reporters to call the owner of the VicodinES web site. One or two reporters have since told him they may have actually talked to VicodinES - and his mom.
+So far, Smith hasn't tried contacting VicodinES.
+"I'm just going to wait to see what the FBI digs up."
+ Load-Date: March 31, 1999
+
+ 
+
+End of Document

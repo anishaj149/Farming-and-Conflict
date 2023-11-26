@@ -1,0 +1,52 @@
+
+
+World Farmers Test Crops on Computer Before Trying the Fields
+The Associated Press
+July 15, 1991, Monday, BC cycle
+
+ Copyright 1991 Associated Press  All Rights Reserved
+Section: Domestic News
+Length: 1010 words
+Byline: By EMILY LOONEY, Associated Press Writer
+Dateline: HONOLULU
+Body
+
+
+
+
+Farmers around the world worried about when and where to plant how much of what are cutting the time and risk by going first to a computer.
+The farmer provides the crop name, planting date and soil type, and a computer program developed at the University of Hawaii creates graphs and tables showing how well the crop likely would turn out.
+The simulated planting saves time in real farming - and that saves money in both the developed and developing worlds, said Professor Goro Uehara, a soil scientist who directs the project.
+"An external panel that evaluated it a year ago indicated it was one of the best of its kind they had seen," said Tejpal S. Gill, monitor of the program with the U.S. Agency for International Development, which provides $ 1 million a year for it.
+The idea has attracted agronomists, agricultural engineers, soil scientists and economists studying farms from the United States and many other countries.
+"This brings agriculture into the information age," Uehara said in an interview at his campus office.
+"We can now perform long-term experiments on the computer in about an hour, rather than doing them in the field, which is expensive, slow and risky."
+Reliable field research takes five to 10 years to gather in predictable growing environments and 25 to 50 years in more volatile areas, he said.
+The scientists combine existing field research with weather tables and soil information into the program that fits on a handful of floppy discs and works on a personal computer. The program is called DSSAT, short for Decision Support System for Agrotechnology Transfer.
+"It's set up so scientists and planners, or those not familiar with computers, can use it," said Jim Jones, a University of Florida professor of agricultural engineering who works with the project.
+The technical predictions get out of labs and into fields through agricultural extension services and public and private agencies.
+The Rockefeller Foundation is testing DSSAT's maize crop model in the southeast African country of Malawi, said Upendra Singh, a researcher at the International Fertilizer Development Center in Muscle Shoals, Ala. The foundation's $ 110,000 grant for 1990-91 funds a cooperative project with Malawi's government.
+Researchers for the U.S. Environmental Protection Agency are predicting farm output in different degrees of global warming with DSSAT.
+"We rely on the cooperation of the crop model network," said Cynthia Rosenzweig, a Columbia University agronomist handling the EPA's three-year project. The results will be reported in June 1992 in Brazil at the United Nations Conference on the Environment and Development.
+On the list of more than 100 research centers collaborating worldwide are the International Crops Research Institute for Semi-Arid Tropics in Hyderabad, India; the International Rice Research Institute in Manila, Philippines; and the International Center for Tropical Agriculture in Cali, Colombia.
+Uehara estimates the user network now spans more than 40 countries, crossing borders unchecked as IBSNAT allows the copyrighted discs to be duplicated. Scientists monitor field application through conferences and a newsletter.
+Computer predictions can be made for wheat, maize, rice, soybean, peanut, and dry bean, accounting for up to 15 variables such as crop type, row spacing and planting date.
+Each model is field-tested, several on the Hawaii island of Maui. There artificial climate adjustments are made to create days of different lengths and amount of rainfall to reflect global variance.
+"We mimic how a crop would grow anywhere in the world," Uehara said. "The only things we can't do here are snow and monsoons."
+Agronomist Joe Ritchie, a crop and soil sciences professor at Michigan State, is chairman of the technical advisory committee that guided the development of DSSAT and is now working to expand it.
+The plan calls for a new version of DSSAT by September 1992, bringing the total crop model list to 12, adding potato, aroid or taro, cassava, sorghum, barley and millet. The new version will also be able to assess risk over time, increasing DSSAT's application to the working concept of sustainable agriculture.
+"It will allow users to simulate a number of years, with the ups and downs of production," Jones said. "A lot of decisions are made to avoid risk, not necessarily to maximize production.
+"In many less developed countries, farmers can't afford a crop failure even for one year," he added.
+The scientists and a support staff of 10 in Hawaii eventually hope to add considerations such as irrigation, disease, pests, erosion and water quality.
+Uehara also wants to be able to adjust the program for specific areas, which would mean getting more scientists involved. For example, Pakistan's problems with excess salt and water logging could be addressed by Israeli agronomists who have researched the same problems, he said.
+Professor J. Barry Dent at the Edinburgh School of Agriculture in Scotland also is working to incorporate new concepts of "whole farm" systems, which account for farmers' economic conditions and personal preferences.
+Funded since its beginning in 1982 by USAID, IBSNAT's current contract expires next year. Uehara and his group are drafting a proposal this summer for a 10-year program with a $ 3 million annual budget.
+Gill declined to speak about funding prospects, but said he thinks it is only a matter of time before the project becomes prevalent in global agricultural planning.
+"They have expertise and a worldwide network," he said. "The first phase has achieved all it was supposed to and exceeded far more than was expected of it."
+IBSNAT charges researchers in developed countries $ 199 for the set of discs. But it gives away more than it sells, donating the program to those working in less developed areas and with non-profit agencies, Uehara said.
+The emphasis remains on sharing and applying research already under way around the world, he said.
+"The project will succeed only if agencies undertake to test and use the program," Uehara said. "Agriculture is a global problem now."
+
+ 
+
+End of Document

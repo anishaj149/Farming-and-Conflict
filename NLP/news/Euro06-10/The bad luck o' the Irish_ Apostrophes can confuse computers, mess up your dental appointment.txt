@@ -1,0 +1,44 @@
+
+
+The bad luck o' the Irish: Apostrophes can confuse computers, mess up your dental appointment
+The Associated Press
+February 21, 2008 Thursday 9:12 PM GMT
+
+ Copyright 2008 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 693 words
+Byline: By SEAN ODRISCOLL, Associated Press Writer
+Dateline: NEW YORK 
+Body
+
+
+
+
+It can stop you from voting, destroy your dental appointments, make it difficult to rent a car or book a flight, even interfere with your college exams.
+More than 50 years into the Information Age, computers are still getting confused by the apostrophe. It's a problem familiar to O'Connors, D'Angelos, N'Dours and D'Artagnans across America.
+When Niall O'Dowd tried to book a flight to Atlanta earlier this year, the computer system refused to recognize his name. The editor of the Irish Voice newspaper could book the flight only by giving up his national identity.
+"I dropped the apostrophe and ran my name as `ODowd,'" he said.
+It's not just the bad luck o' the Irish. French, Italian and African names with apostrophes can befuddle computer systems, too. So can Arab names with hyphens, and Dutch surnames with "van" and a space in them.
+Michael Rais, director of software development at Permission Data, an online marketing company in New York, said the problem is sloppy programming.
+"It's standard shortsightedness," he said. "Most programs set a rule for first name and last name. They don't think of foreign-sounding names."
+The trouble can happen in two ways, according to Rais.
+One: Online forms typically have a filter that looks for unfamiliar terms that might be put in by mistake or as a joke. A bad computer system will not be able to handle an apostrophe, a hyphen or a gap in a last name and will block it immediately.
+Two: Even if the computer system is sophisticated enough to welcome an O'Brien or Al-Kurd, the name must be stored in the database, where a hyphen or apostrophe is often mistaken for a piece of computer code, corrupting the system.
+That's what happened during the Michigan caucus in 2004, when thousands of O'Connors, Al-Husseins, Van Kemps and others who went to the polls didn't have their votes counted.
+"It was a real slapped-together computer system the party put together and a lot of people were left out who were registered to vote, it was a real pity," said Michigan political consultant Mark Grebner.
+In this year's primaries, the system worked much better, according to the Michigan Democratic Party. There have been isolated reports of problems elsewhere, but nothing on the scale of Michigan.
+Still, an apostrophe, hyphen or space can interfere with medical and dental records, gym memberships, online searches or school registration.
+Dutch-American proofreader Jessica van Campen has seen her name listed as Jessica Vancampen, Jessica Van, Jessicavan Campen, Jessica Campen and Jessican Kampen by uncertain computer systems. When she went to her finals in college, she was listed under Campen and was told Jessica Van Campen had dropped out of the course.
+"It was another moment of panic," she said.
+All of this confusion has prompted some people to surrender to technology. Iraqi immigrant Lina Alathari was once known as Lina Al-Athari, but dropped the hyphen in America. "There is no pronunciation difference, so I'm fine with it," she said.
+Erin Carney D'Angelo, a lawyer in New York, was born apostrophe-free, but took one on when she married her Italian-American husband. But "he told me to drop the apostrophe when filling out forms so to computers I'm just a `Dangelo,'" she said.
+The problem is difficult to correct because computer systems have many different ways of recognizing names, Rais said.
+"It depends on the form filters and it depends on the database program," he said. "Basically, there are a lot of programmers out there who forget that a growing portion of the American public are not called John Smith or Mary White."
+The Irish apostrophe began with the British, who put it there because they believed the O looked odd without a link to the rest of the name. Many Gaelic speakers in Ireland refuse to carry an apostrophe, considering it a vestige of colonial days.
+"Maybe that's the solution," said O'Dowd, who just last week was rejected by an online alarm clock service. "Maybe we should just drop the apostrophe altogether, not just as a nationalist statement but because I'd like my alarm call to work in the morning."
+For my part, I've already thrown off my apostrophe. From now on I am Sean ODriscoll.
+ Load-Date: February 22, 2008
+
+ 
+
+End of Document

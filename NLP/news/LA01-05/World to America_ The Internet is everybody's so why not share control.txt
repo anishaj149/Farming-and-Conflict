@@ -1,0 +1,61 @@
+
+
+World to America: The Internet is everybody's so why not share control
+The Associated Press
+November 10, 2005, Thursday, BC cycle
+
+ Copyright 2005 Associated Press  All Rights Reserved
+Section: Domestic News; Business News; International News
+Length: 1114 words
+Byline: By MATT MOORE, AP Business Writer
+Dateline: FRANKFURT, Germany
+Body
+
+
+
+
+On the global Internet these days, the United States is less trusted and more alone. The worldwide network was born on U.S. shores, but that matters little to the growing number of nations now demanding shared control.
+An escalating feud over Internet governance is threatening to transform a U.N. summit in Tunisia next week into an acrimonious showdown between the United States and challengers including the European Union.
+The debate is over whether Washington, through its oversight of a quasi-independent agency, should continue as the ultimate administrator of all the Web's domains - not only over ".com" but also the country-specific ones like ".cn" for China.
+At its essence, the struggle is over an information superstructure that is already the main conduit of world commerce. It is also about free speech and information control. The arbitrars of Internet policy could profoundly shape international relations in coming years.
+"I am torn about this, as I suspect many Internet law experts are. On the one hand, basic principles of international law suggest that a common carrier essential to commerce in all nations should be internationally controlled," said Frank Pasquale, a professor at Seton Hall Law School in Newark, N.J.
+"On the other hand," Pasquale added, "many of the countries most eager to impose international control also have bad records on free speech issues, political prisoners."
+The so-called World Summit on the Information Society was originally conceived to address the digital divide - the gap between information haves and have-nots - by raising both consciousness and funds for projects.
+Instead, it has centered largely around Internet governance: oversight of the main computers that control traffic on the Internet by acting as its master directories so Web browsers and e-mail programs can find other computers.
+Although the U.S. government has largely delegated management to a private organization with international board members, the Internet Corporation for Assigned Names and Numbers, or ICANN, it has ultimate veto power over all decisions.
+Washington set a course for confrontation when it declared over the summer that it will retain such oversight indefinitely, despite what many countries thought was a longstanding policy to one day completely turn the function over to ICANN.
+The EU responded in September by insisting that some sort of new combination of governments and the private sector share the responsibility of policing the Internet. Before, the push for an international takeover of ICANN mostly came from such developing countries as Brazil, South Africa and China.
+"Unilateral control by the U.S. government would be very sad," EU spokesman Martin Selmayr said. "They just have to give up their unilateral control and everything will be fine."
+The reasons for resentment of U.S. control are numerous, beginning with objections to Bush administration foreign policy.
+"In this post-Iraqi war climate, U.S. unilateralism has become an issue," said Carl Bildt, the former Swedish prime minister. "It's not necessarily about the Internet."
+On actual Internet-related issues, there's frustration that the countries that got online first - the United States and western Europe, chiefly - gobbled up most of the available addresses required for computers to connect, leaving developing nations with a limited supply to share.
+There are also complaints that governments can't easily control their own domains - changing administrators for country-code domains can take years.
+"The U.S. Department of Commerce, they are good to oversee whatever happens in the U.S.A., but not the 250 countries" and territories with their own domains, said Kilnam Chon, a professor at Korea Advanced Institute of Science and Technology.
+Countries like Pakistan, India and China and several in Africa - where many potential users know little, if any, English - want quicker approval for domain name suffixes in their languages, something on which ICANN is moving as if through treacle.
+Nonetheless, much of the criticism of U.S. control is philosophical: If governments already handle public services like delivering food and water, why should they cede something as important as the Internet to another country?
+Chon said he couldn't point to any specific instance of U.S. meddling, and he's not even sure how to create international oversight that isn't slow and bureaucratic.
+What critics seek varies and remains in many cases vague.
+Some want an international body that would address issues ICANN doesn't currently oversee, plagues like spam and security. Others want ICANN or a replacement technical organization to answer not to the Commerce Department but to an international organ, possibly under the United Nations.
+A top Brazilian official, Marcelo Lopes, says Brazil will push for a "multi-stakeholder, multilateral" governing body that takes over Internet addressing and security issues.
+"Why is it that one country has the final say?" said Lopes, who heads his country's Internet Administrative Committee.
+The EU seems to want something in between: not a new international agency but some sort of multilateral method for setting disputes. Selmayr said that could involve expanding existing ICANN structures.
+Paul Twomey, ICANN's chief executive, worries that greater international control - beyond the committees and forums already sanctioned by ICANN - will politicize technical decisions.
+"The actual technical infrastructure of how machines talk to machines should not be held captive to constant multilateral haggling," he said.
+Ambassador David Gross, the U.S. State Department's top official on Internet policy, argues that multi-country oversight could lead to further constrains on the free flow of information.
+A particular regime, for example, could try to use the system to block opposition Web sites. Let's say China gets control of the Chinese-language version of ".com," whenever that becomes available. All of a sudden, it could decide which sites could register under a domain, affecting Chinese populations overseas and in Taiwan besides those on the mainland.
+It's not clear what, if anything, will be resolved in Tunis. When world leaders met in Geneva in December 2003, they punted the issue to a U.N. task force, which couldn't agree on a course, either.
+Gross isn't looking to accommodate this time around.
+He said U.S. policies on retaining control are "not negotiating principles. Rather, they are the firm position of the U.S. going forward."
+---
+Associated Press reporters Anick Jesdanun in New York; Paulo Winterstein in Sao Paolo, Brazil; Aoife White in Brussels, Belgium and Jody Sherwood in Stockholm, Sweden contributed to this report.
+ Graphic
+
+
+
+ 
+AP Photo of Nov. 10: PFRA104
+ Load-Date: November 11, 2005
+
+ 
+
+End of Document

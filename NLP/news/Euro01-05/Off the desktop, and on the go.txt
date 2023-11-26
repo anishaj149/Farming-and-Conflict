@@ -1,0 +1,55 @@
+
+
+Off the desktop, and on the go
+The Associated Press
+July 10, 2003, Thursday, BC cycle
+
+ Copyright 2003 Associated Press  All Rights Reserved
+Section: Domestic News; Business News
+Length: 887 words
+Byline: By ANICK JESDANUN, AP Internet Writer
+Dateline: NEW YORK
+Body
+
+
+
+
+The latest cell phones can show you the nearest bathrooms in San Francisco or which subway to take in London. They can also help with your diet by tracking calorie intake.
+Behind such programs and more is the very technology at the center of an intense battle between Microsoft Corp. and Sun Microsystems Inc. over control of desktop computers.
+Though Sun has mostly lost that fight, the beleaguered Silicon Valley icon is trying to give new life to its Java programming language with an aggressive push into mobile devices. Once again, it finds a foe in Microsoft. But this time Sun has the lead.
+Java gives consumers nifty applications like games, weather and maps. It helps motorists avoid traffic congestion and lets companies track sales people on the go.
+Nokia, the world's No. 1 seller of cell phones, already has more than three dozen Java-enabled models, and plans to include Java in all but its low-end units in the future, said Victor Brilon, Nokia's Java application manager. One phone model even uses Java to snap photographs.
+Sun, which distributes Java for free and sells computers to power Java services, says more than 94 million Java devices are in use.
+What began as a novelty in Japan has garnered broader interest in Europe and North America over the past year, with 53 wireless carriers embracing Java, up from 35 last year, according to Sun.
+Java also is appearing in cars, printers and camcorders. Alan Brenner, Sun's vice president for consumer and mobile systems, said makers of medical devices are also taking a look.
+Though Sun isn't conceding the desktop, it suffered a setback recently when a federal appeals court refused to require that Microsoft's dominant Windows operating system carry Sun's tools for running Java applications.
+But the ruling merely underscores how technology moves faster than the law.
+The top two computer manufacturers, Dell Computer Corp. and Hewlett-Packard Co., will package Sun's software - even if Microsoft won't. And many program developers say their focus had long shifted away from desktops anyhow.
+"There are other frontiers to be won," said Dave Chappell, chief technology officer for Sonic Software Corp. and co-author of "Java Web Services." "Handheld devices, phones and even automobiles, those things combined are much larger than the desktop."
+Java was born in 1990 as Oak, a way to standardize programming across multiple devices like TV set-top boxes. It was renamed in 1995, just as the Internet was taking off, and its focus shifted to breaking Microsoft's grip on desktops.
+The idea behind Java is simple. Write a program once and run it anywhere, no matter the operating system in use. A game or a word processor that works on Windows should also run on Macintosh, Linux and other platforms.
+In practice, however, early versions of Java suffered performance problems. Meanwhile, in what led to Sun's $1 billion antitrust lawsuit against Microsoft, the Redmond, Wash. software giant modified Java for Windows. Microsoft calls the changes improvements; Sun says it effectively killed Java by removing its ability to work across different systems.
+"The sort of Java-powered version of Microsoft Word has not really materialized in any competitively meaningful way," said Rick Ross, who runs the Javalobby group of developers.
+Many of the Java desktop programs are niche applications. VisualWare has a Web browser applet for tracing Internet data packets. An encryption program called Poindexter, the file-sharing software LimeWire and crossword puzzles from The New York Times also use Java, as do systems for reserving airline seats online.
+Internet ads have also used Java, though many now use Macromedia's Flash, a technology geared toward multimedia presentations.
+Java is particularly strong in back-end office applications for such tasks as managing supply chains and powering e-commerce searches. Back-end computers are more likely to use Windows alternatives like Linux and Sun's Solaris, playing into Java's strengths of platform neutrality.
+"For building enterprise applications, Java is not just alive and well but in many cases dominant," said Forrester analyst Ted Schadler.
+With similar diversity among devices, developers are eyeing Java. Third-party developers could now write programs for customers to buy and download onto their phones without worrying about compatibility.
+Java hasn't entirely won on devices, however, and work remains on developing standards for wireless-specific features like ring tones.
+Though games are among Java's early adopters, many game developers still use the C language, which is more difficult to learn but interacts more directly with hardware for better performance, said Gina Lombardi, a senior vice president for chip maker Qualcomm Inc.
+Microsoft, meanwhile, is aggressively pushing its Java alternative for devices, .NET Compact Framework, in a replay of the desktop battle.
+Although devices usually need to run Microsoft operating systems to work with .NET, the framework ensures standardized hardware, said Ed Kaim, product manager for .NET mobile development.
+That way, he said, a cartoon designed for horizontal screens won't get cut off because a device is vertical.
+"Java absolutely had a head start on us," Kaim said. "But it's not a sprint, it's a marathon."
+Anick Jesdanun can be reached at netwriter(at)ap.org
+ Graphic
+
+
+
+ 
+AP Photo NY828 of July 10; AP Graphic JAVA
+ Load-Date: July 11, 2003
+
+ 
+
+End of Document

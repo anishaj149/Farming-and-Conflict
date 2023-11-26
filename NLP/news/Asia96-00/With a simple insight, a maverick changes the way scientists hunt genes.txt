@@ -1,0 +1,53 @@
+
+
+With a simple insight, a maverick changes the way scientists hunt genes
+March 30, 1997, Sunday, AM cycle
+
+ Copyright 1997 Associated Press  All Rights Reserved  Associated Press
+Section: Domestic News
+Length: 1230 words
+Byline: By MATT CRENSON
+Dateline: ROCKVILLE, Md.
+Body
+
+
+
+
+Thirty years ago at the Navy hospital in Da Nang, medical corpsman J. Craig Venter found himself staring the cosmos in the face.
+He was performing an autopsy on a soldier about his own age - 20, maybe 21. A single small-caliber bullet had gone through the young man's head.
+"There was just this tiny little hole that just went through part of his brain. And I couldn't understand why he was dead," Venter recalls. "Why was he dead and not others?"
+A spiritual man might have looked to religion for help in understanding. An introspective type might have sought meaning in art or literature. Venter turned to science.
+After returning from Vietnam, he made up for the time he'd wasted before being drafted, racing through college and graduate school in six years. He held professorships in Buffalo, at the State University of New York and the Roswell Park Memorial Institute, then became a researcher at the National Institutes of Health in 1984.
+In those days, scientists struggled mightily to find just one gene. They would spend years homing in on a tiny fragment of genetic material that somehow helps determine whether a person gets breast cancer, schizophrenia, cystic fibrosis or some other ailment. Then, once the researchers had found a gene and figured out its function, a company might patent it in the hope that more years of research might produce a treatment or diagnostic tool.
+But in 1990, somewhere over the Pacific Ocean, Venter thought of a better way. With 12 hours to kill on a flight from Japan to the United States, he made a simple observation that has revolutionized the gene-hunting business.
+The problem, Venter realized, is that most of the DNA in every human cell is junk - meaningless information that may be important mechanically or evolutionally, but has nothing to do with the operation of the living machine.
+Yet, somehow, every cell in the human body knows what information it needs to operate, and uses only that subset of the 60,000 to 100,000 human genes, ignoring the estimated 97 percent of DNA that doesn't really mean anything.
+"Our brain cells know how to find the genes associated with brain function, and the liver knows how to get ones for liver cells' structure and function," Venter says. "Basically, my big breakthrough was just realizing that each and every cell in our body works better than our best supercomputers in interpreting the genetic code."
+Venter and his colleagues wrote a paper for the journal Science suggesting that such an approach, a technique known as expressed sequence tagging, would be very useful for finding human genes. It would target only those DNA sequences that are expressed, or used, in a cell, allowing biologists to find important genes quickly, without having to sift through the rest of the genetic material.
+Pretty soon, Venter had cranked out a few thousand human genes, more than doubling the number known. Not long after that, he was out of a job.
+The trouble began when Venter's employer, the National Institutes of Health, decided it would be best to patent the genes he was discovering.
+That made leaders of the human genome project, an international effort to sequence every gene there is, apoplectic.
+Patenting genes would lock up their potential forever, the gurus of the genome project protested. Researchers would have no incentive to study a gene that belonged to somebody else, they argued, because only the patent holder would profit from any resulting treatment.
+In the fray that erupted over gene-patenting, Venter and his innovation itself soon began drawing fire.
+"Some of the biggest names in science tried to eliminate my career," Venter says. "Not illuminate - eliminate. And I think being shot at for a year in Vietnam … prepared me for the hostile scientific community."
+As the controversy wore on, relations between Venter and his employer grew strained. Most geneticists didn't realize the potential of expressed sequence tagging, Venter says, and the NIH was reluctant to fund his research.
+"We were in the neurology institute," explains Richard McCombie, an associate investigator at the Cold Spring Harbor Laboratory, who worked with Venter at the NIH. "Because of that they were, I think, hesitant to get into something that was drifting a bit far from neurology."
+But if the NIH didn't want in, the biotechnology industry certainly did.
+"I started getting all these really mega-offers to go head biotech companies. And I didn't want to head a biotech company," Venter says. "So I told all these investors and investment bankers that if they wanted me to leave NIH, then the only way I'd leave is if they funded a not-for-profit institute. That scared most of them off."
+Venter finally made a deal with HealthCare Investment, which promised him $ 70 million over 10 years to start the Institute for Genome Sciences, a nonprofit research institute. In return, Human Genome Sciences, a company set up by HealthCare Investment, would get first dibs on anything the institute discovered.
+As he signed the deal, Venter says, couldn't help feeling he had made a pact with the devil.
+Since he founded the institute, he has clashed with his funders over sharing the fruits of his labors - much of the human genetic code, plus the complete blueprints for a handful of microbes.
+And even as he has fought to publish his results as soon as possible and disseminate them to his colleagues, he says he has gained a reputation for hoarding scientific knowledge because of the limitations of his Human Genome Sciences contract.
+"It's really a bizarre situation," Venter says. "Our desire to publish our findings at the earliest possible point is conflicting with the company's desire to keep the information for their private use."
+The relationship hasn't been all grief. Venter acknowledges he's personally made "a few million" dollars, and that the deal allowed him to acquire his prized possession - an 82-foot sailboat. In May, he's sailing it in the Atlantic Challenge, a two-week race from New York to Falmouth, England.
+But before he goes, he's thumbing his nose at his funder and occasional nemesis by opening his human gene database to the scientific community with no restrictions. A complicated side-agreement with both Human Genome Sciences and the pharmaceutical company SmithKline Beecham expires in April, allowing him to make the move.
+"It's the only comprehensive human gene database out there," Venter says. "It's a big event."
+Not so, says Human Genome Sciences chief William Haseltine. Venter's databank is only a fraction of what Human Genome Sciences has in its giant human genetic database, most of which was acquired by the company on its own, Haseltine says.
+In some ways, the human genes are yesterday's news anyway. The institute's databases include not just 80 percent of human genes, but the entire genetic blueprints for two bacteria and for Methanococcus, a microbe that belongs to a branch of life entirely separate from the animals, plants and bacteria.
+By the end of this year, science will have in hand the complete genetic catalogs of about a dozen organisms. Once they have about 50, Venter says, they can begin comparing different life forms gene by gene to study how evolution constructed the machinery of life.
+"Nobody knows what the fundamentals of life are, and how it works," Venter says. "I'm closer to approaching some of those questions than science has been before."
+ Load-Date: March 30, 1997
+
+ 
+
+End of Document

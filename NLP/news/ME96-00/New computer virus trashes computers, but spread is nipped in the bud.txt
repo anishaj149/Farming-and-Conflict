@@ -1,0 +1,60 @@
+
+
+New computer virus trashes computers, but spread is nipped in the bud
+The Associated Press
+May 19, 2000, Friday, AM cycle
+
+ Copyright 2000 Associated Press  All Rights Reserved
+Section: Domestic News; Business News
+Length: 730 words
+Byline: By PETER SVENSSON, AP Business Writer
+Dateline: NEW YORK
+Body
+
+
+
+
+Companies alerted by the "Love Bug" epidemic two weeks ago seem to have contained the spread of a new, more dangerous virus, experts said Friday.
+The virus, christened "NewLove," infected thousands of computers around the world over the past two days, but failed to achieve the avalanche-like spread of "Love Bug" because network administrators for many companies were able to block infected e-mails.
+The damage to those affected was much greater, however, since "NewLove" erases almost all files on a computer it infects and causes it to crash. In comparison, the "Love Bug" targeted only a few files.
+"Two weeks ago, we all got some love mail. Today we're getting hate mail. This is a very nasty one," said Simon Perry at software company Computer Associates International Inc. in Islandia, N.Y.
+In Washington, Attorney General Janet Reno launched an FBI investigation into the new virus.
+Gene Hodges at software company Network Associates Inc. in Santa Clara, Calif., said a company in Israel was the first to report the virus early Thursday. It shut down its connection to the Internet to curtail the spread, but the virus later surfaced in Europe and the United States.
+U.S. companies were quick to add protective measures, Hodges said, a marked difference from their reaction to the spread of the "Love Bug."
+Hodges said network administrators calling two weeks ago went "Holy cow! I have 20,000 copies of this on my (e-mail server)! What do I do now?
+"This time, they were saying 'I think I'm set, is there anything more I need to do?"'
+Had awareness not been heightened by the "Love Bug," the new virus could have spread very fast and caused untold damage, Hodges said.
+"In this perspective, 'Love Bug' was a very positive wakeup call," he said.
+The "Love Bug" arrived in e-mails with an "ILOVEYOU" subject line that enticed millions recipients to open the attachment that activated the virus. Once news spread of the virus, infected e-mails were easily detected and deleted.
+Estimates of the damage caused range up to $10 billion, mostly in lost work time; the "NewLove" virus is expected to total much less, despite being more deviously designed.
+"This new version can change the subject line and the program code every time it is retransmitted," Reno said at her weekly news conference. "This makes the virus more difficult for users and anti-virus programs to detect."
+The subject line of an e-mail infected starts with "FW: " and includes the name of a file from the sender's computer. The e-mail will have an attachment with the same name, but it may also have a ".vbs." extension visible.
+Clicking on the attachment will activate the virus. Like "Love Bug," it will send itself to everybody in the user's address book. It will then overwrite most files on the hard drive, rendering the computer useless until the operating system is reinstalled.
+"This worm is too destructive to go very far," said Mikko Hypponen at anti-virus company F-Secure Corp. in Finland. "When people were hit by 'LoveLetter', they didn't notice it until they were contacted by people who they had sent the virus to. With 'NewLove,' your computer crashes immediately and you lose your files. It's difficult to miss that."
+As with the "Love Bug," it will only spread from recipients running Microsoft's Outlook e-mail program. However, it will destroy files when the attachment is opened in another program if the computer is running the Windows 98 or Windows 2000 operating systems, or has Microsoft Internet Explorer 5.0 installed under Windows 95.
+A Microsoft executive said the company was "very disturbed and frustrated" by the use of the company's e-mail program to spread viruses.
+Product group manager Tom Bailey said he believed the virus uses the Microsoft program because of its widespread use, not because the creator is targeting company's product.
+Next week, the company will release a modification to Outlook designed to "eradicate this type of virus," Bailey said.
+---
+ 
+EDITOR'S NOTE: Associated Press Writer Michael Sniffen in Washington contributed to this report.
+---
+ 
+On the Net:
+Network Associates' McAfee anti-virus unit: http://www.mcafeeb2b.com/ 
+Computer Associates: http://www.cai.com/ 
+F-Secure: http://www.f-secure.com/ 
+Microsoft Office Update: http://officeupdate.microsoft.com 
+CERT Coordination Center: http://www.cert.org 
+National Infrastructure Protection Center at http://www.nipc.gov/ 
+ Graphic
+
+
+
+ 
+AP Photos NY118, WX101; AP Graphic NEW VIRUS
+ Load-Date: May 20, 2000
+
+ 
+
+End of Document

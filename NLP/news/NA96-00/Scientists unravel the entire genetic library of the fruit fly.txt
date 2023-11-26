@@ -1,0 +1,44 @@
+
+
+Scientists unravel the entire genetic library of the fruit fly
+The Associated Press
+February 18, 2000, Friday, AM cycle
+
+ Copyright 2000 Associated Press  All Rights Reserved
+Section: Washington Dateline
+Length: 774 words
+Byline: By DANIEL Q. HANEY, AP Medical Editor
+Dateline: WASHINGTON
+Body
+
+
+
+
+Scientists at last have deciphered virtually the entire genetic code of the fruit fly, an important dry run in figuring out all the genes that make humans tick.
+The achievement was announced Friday by scientists who took part in an unusual collaboration between a university lab and a private company that is racing the federal government to decode the human genetic library.
+For almost 100 years, the fruit fly - known to scientists as Drosophila melanogaster - has been the premier lab species for learning how the appearance and traits of all living things are encoded in their genes.
+Indeed, it was fruit fly experiments that led to the understanding that genes are carried in long strings called chromosomes.
+In the latest project, scientists unraveled the fruit fly's genetic blue print from end to end. They decoded both the actual genes and the less interesting bits of genetic filler that separate them along the chromosomes.
+The project combined the expertise of Dr. Gerald Rubin's Drosophila Genome Project Group at the University of California at Berkeley with the powerful gene-sequencing machines and computers at Celera Genomics Corp., the Rockville, Md., company headed by J. Craig Venter.
+Scientists from both groups announced the results at the annual meeting of the American Association for the Advancement of Science.
+They say they have unraveled more than 97 percent of the fly's genetic code and more than 99 percent of the actual genes. In all, it turns out that every fruit fly cell contains 13,601 genes. Human cells, by contrast, are thought to have about 70,000.
+The scientists have lumped the fruit fly genes into broad categories, such as those that contain the code for enzymes or for structural proteins. The duties of half the genes are unknown.
+Although about 1,600 tiny gaps still remain, Rubin said they are filling these in at a rate of about 100 a day.
+Rubin said three scientific papers on the work have been submitted to the journal Science. Much of the raw data already are available on the Internet at the National Library of Medicine's GenBank site.
+To those who have spent their careers studying the fruit fly, the data are likely to offer many insights as well as possibilities for new experiments. Among other things, Dr. Edward Lewis said it will mean scientists may spend as much time scrutinizing newly available genetic code on computer screens as they now do in lab experiments.
+"We have been looking forward to this for a long time. It really is a big deal," said Lewis, a longtime Drosophila researcher at the California Institute of Technology.
+One reason scientists study the genes of simple creatures like flies and worms is that similar genes often play important roles in the internal workings of people.
+Rubin said his team looked at 289 genetic flaws known to cause diseases in humans. Using the new data, they searched for similar genes in the fruit fly and found that 60 percent of the human genes match up.
+These include genes for such common human problems as kidney disease, Alzheimer's disease and cancer. In fact, 70 percent of the genes known to cause human malignancy were found to exist in similar form in the fruit fly.
+Mark Adams, one of the Celera scientists, said a longtime goal has been discovery of a fruit fly version of a human gene called p53. This gene ordinarily corrects genetic errors, and defects in p53 are an extremely common contributor to cancer.
+Using the new data, scientists found the gene. "It just jumped right out of the genome," Adams said.
+Over the years, scientists have discovered many mutations that cause odd body shapes or unusual characteristics in fruit flies. Recently, a gene dubbed Methuselah was discovered that makes fruit flies live about one-third longer than usual. Adams said the new data show that the Methuselah gene actually is one of a large family, and it has 10 close relatives.
+The Celera scientists used a method called whole genome shotgun sequencing. They decoded more than 3 million fragments of the fly's genes, then looked for overlapping chunks so they could piece them together into a continuous strand.
+"This is a test case for us in anticipation of doing the human genome," said Eugene Myers, a Celera scientist.
+The National Center for Human Genome Research uses a different approach in the goverment-backed effort to learn the human genetic blueprint. Venter has proposed teaming up, although the timing of releasing data to the public has been a sticking point.
+"It hasn't happened, but we are optimistic that the result of the tremendous Drosophila experience will help that human collaboration get off the ground," Venter said Friday.
+ Load-Date: February 19, 2000
+
+ 
+
+End of Document

@@ -1,0 +1,47 @@
+
+
+Behind the scenes, crafting the US no-fly list
+The Associated Press
+March 10, 2010 Wednesday 02:19 PM GMT
+
+ Copyright 2010 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1103 words
+Byline: By EILEEN SULLIVAN, Associated Press Writer
+Dateline: WASHINGTON 
+Body
+
+
+
+
+It starts with a tip, a scrap of intelligence, a fingerprint lifted from a suspected terrorist's home.
+It ends when a person is forbidden to board an airplane a decision that's in the hands of about six experts from the Transportation Security Administration.
+The no-fly list they oversee constantly changes as hundreds of analysts churn through a steady stream of intelligence. Managing the list is a high-stakes process. Go too far in one direction and innocent travelers are inconvenienced. Go in the other direction and a terrorist might slip onto an airplane.
+It could take minutes to put a name on the list. Or it could take hours, days or months.
+That's because the list is only as good as the nation's intelligence and the experts who analyze it. If an intelligence lead is not shared, or if an analyst is unable to connect one piece of information to another, a terrorist could slip onto an airplane. Officials allege that's just what took place ahead of the attempted Christmas Day attack on a Detroit-bound jet.
+In the months since the arrest of Nigerian Umar Farouk Abdulmuttalab, the no-fly list has nearly doubled from about 3,400 people to about 6,000 people, according to a senior intelligence official. The list expanded, in part, to add people associated with al-Qaida's Yemen branch and others from Nigeria and Yemen with potential ties to Abdulmuttalab, a counterterrorism official said.
+The no-fly list has been one of the government's most public counterterrorism tools since the Sept. 11, 2001, attacks. Adding more people to the list could make Americans safer when they fly. But it could also mean more cases of mistaken identity.
+Current and former intelligence, counterterrorism and U.S. government officials provided The Associated Press a behind-the-scenes look at how the no-fly list is created. They spoke on condition of anonymity to discuss sensitive security issues.
+Despite changes over time, the list remains an imperfect tool, dependent on the work of hundreds of government terrorism analysts who sift through massive flows of information. The list ballooned after 9/11 and has fluctuated in size over the past decade. In 2004, it included about 20,000 people. The standards for getting on the list have been refined over the years, and technology has improved to make the matching process more reliable.
+There are four steps to banning a person from flying:
+ It begins with law enforcement and intelligence officials collecting the smallest scraps of intelligence a tip from a CIA informant or a wiretapped conversation.
+The information is then sent to the National Counterterrorism Center, a Northern Virginia nerve center set up after 9/11. There, analysts put names even partial names into a huge classified database of known and suspected terrorists. The database, called Terrorist Identities Datamart Environment, or TIDE, also includes some suspects' relatives and others in contact with the suspects. About 2 percent of the people in this database are Americans.
+Analysts scour the database trying to make connections and update files as new intelligence flows in. Abdulmutallab's name was in TIDE before the Christmas Day attempt, thanks to a warning his father gave the U.S. Embassy in Nigeria about the alleged bomber's extremist ties in Yemen.
+But much of the information coming into the center is incomplete. This is one reason analysts didn't connect Abdulmutallab's father's warning to other fragmented pieces of information. Because of this, analysts did not send his name to the next tier of analysis at the Terrorist Screening Center, another Northern Virginia intelligence center, staffed by analysts from federal law enforcement agencies across the government.
+ About 350 names a day are sent to the Terrorist Screening Center for more analysis and consideration to be put on the government-wide terror watch list. This is a list of about 418,000 people, maintained by the FBI.
+To place a name on that list, analysts must have a reasonable suspicion that the person is connected to terrorism. People on this watch list may be questioned at a U.S. border checkpoint or when applying for a visa. But just being on this list isn't enough to keep a person off an airplane. Authorities must have a suspect's full name and date of birth as well as adequate information showing the suspect is a threat to aviation or national security.
+ Once armed with information for those three categories, about a half-dozen experts from the Transportation Security Administration who work at the screening center have two options. They can add a suspect to the "selectee list," a roster of about 18,000 people who can still fly but must go through extra screening at the airport. Or, if analysts determine a person is too dangerous to board a plane, they can put the suspect on the no-fly list.
+The names on each list are constantly under review and updated as the threat changes.
+In 2007, officials removed people who were no longer considered threats. Some were inactive members of the Irish Republican Army, a former law enforcement official said. And in 2008, the criteria was expanded to include information about young Somali-American men leaving the U.S. to join the international terrorist group al-Shabab, the senior intelligence official said. If a person on the no-fly list dies, his name could stay on the list so that the government can catch anyone trying to assume his identity.
+At times, officials have allowed passengers to fly even if they are on the no-fly list, the former law enforcement official said. In some cases, this is to let agents shadow suspected terrorists while they're in the U.S. Before this happens, FBI agents and TSA experts consult with each other. If it is decided a suspected terrorist should be allowed on the flight, he and his belongings might then go through extra screening, he might be watched on camera at the airport, and more federal air marshals might be assigned to monitor him during his flight, the former official said.
+As the government takes on more responsibility for checking names against the lists, officials hope the number of mistaken identity cases will dramatically decrease. And since Dec. 25, national security officials have been looking at ways to change and improve the standards for placing people on it.
+One thing is for sure: Another incident like the Christmas Day near-miss will cause more re-examinations of a system still far from foolproof.
+Associated Press writer Matt Apuzzo in Washington contributed to this report.
+On the Net:
+http://www.nctc.gov/docs/Tide Fact Sheet.pdf
+http://www.fbi.gov/terrorinfo/counterrorism/tsc.htm
+ Load-Date: March 11, 2010
+
+ 
+
+End of Document

@@ -1,0 +1,29 @@
+
+
+Excerpts from the citation for the 2004 Nobel Memorial Prize in economics
+The Associated Press
+October 11, 2004, Monday, BC cycle
+
+ Copyright 2004 Associated Press  All Rights Reserved
+Section: Business News; International News
+Length: 447 words
+Dateline: STOCKHOLM, Sweden
+Body
+
+
+
+
+Excerpts from the citation awarding the 2004 Nobel Memorial Prize in Economic Sciences to Finn E. Kydland of Norway and Edward C. Prescott of the United States for their contributions to dynamic macroeconomics and the time consistency of economic policy and the driving forces behind business cycles.
+---
+The higher taxation of capital households expect in the future, the less they save; the more expansive monetary policy and the higher inflation firms expect, the higher prices and wages they set, etc. The laureates showed how such effects of expectations about future economic policy can create a time consistency problem.
+If economic policy-makers lack the ability to commit in advance to a specific decision rule, they will often not implement the most desirable policy later on. Kydland and Prescott's results offered a common explanation for events that, until then, had been interpreted as separate policy failures, for example, that economies become trapped in high inflation even though price stability is the stated objective of monetary policy.
+Their awarded work established the foundations for an extensive research program on the credibility and political feasibility of economic policy. This research shifted the practical discussion of economic policy away from isolated policy measures toward the institutions of policymaking, a shift that has largely influenced the reforms of central banks and the design of monetary policy in many countries over the last decade.
+Research by the laureates also transformed the theory of business cycles by integrating it with the theory of economic growth. Whereas earlier research had emphasized macroeconomic shocks on the demand side of the economy, Kydland and Prescott demonstrated that shocks on the supply side may have far-reaching effects.
+In their business-cycle model, realistic fluctuations in the rate of technological development brought about a covariation between GDP (gross domestic product), consumption, investments and hours worked close to that observed in actual data. Previous business-cycle models had typically been based on historical relations between key macroeconomic variables.
+But models that had functioned quite well during the 1960s began to break down under the more turbulent economic conditions of the 1970s, with oil-price shocks and concurrent inflation and unemployment.
+The laureates laid the groundwork for more robust models by regarding business cycles as the collective outcome of countless forward-looking decisions made by individual households and firms regarding consumption, investments, labor supply, etc. Kydland and Prescott's methods have been widely adopted in modern macroeconomics.
+ Load-Date: October 12, 2004
+
+ 
+
+End of Document

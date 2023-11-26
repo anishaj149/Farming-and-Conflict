@@ -1,0 +1,55 @@
+
+
+The skinny on the stimulus plan
+The Associated Press
+February 13, 2008 Wednesday 4:27 PM GMT
+
+ Copyright 2008 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1166 words
+Byline: By TOM HERMAN, The Wall Street Journal
+Body
+
+
+
+
+What's in it for me?
+That's the question millions of taxpayers are asking after Congress approved an economic-stimulus package last week that includes one-time payments to more than 131 million households. President Bush is planning to sign the package into law today, and a Treasury Department spokesman says the payments are expected to begin flowing in May.
+Under the legislation, most people who pay federal income taxes will get up to $600 for individuals, or as much as $1,200 for married couples, with an additional $300 per child. But many upper-income Americans will get nothing because of income limits. The amounts begin to phase out for incomes above $75,000 for individuals and $150,000 for married couples who file jointly. Many low-income Americans who pay little or no federal income tax will get something, too. To get a payment this year, you have to file a tax return for 2007. Congress also approved business-tax breaks, including one especially designed for small businesses.
+Elements of the plan can be tricky, such as the mechanics of the phase-outs. Here are answers to some of the most frequently asked questions affecting individuals, based on interviews with government officials, accountants and tax lawyers.
+Q: How much will I get?
+A: As with so many tax questions, the answer is: It depends. Here are a few examples:
+A married couple with no kids and adjusted gross income for 2007 of $140,000 typically would get $1,200. A married couple with the same income, with two kids under 17, would get $1,800. A married couple with the same income, with 10 kids, would get $4,200.
+There are other rules that apply to many low-income people, such as Social Security recipients and military veterans receiving disability benefits. For example, someone who is single with no kids and $3,000 in Social Security benefits would be eligible for a $300 payment, according to CCH, a Wolters Kluwer unit that publishes tax and other business information.
+The Treasury estimates payments to individuals will total about $112 billion.
+Q: How is the income phase-out supposed to work?
+A: The Senate Finance Committee says the amount of the credit "is phased out at a rate of 5 percent of adjusted gross income beginning at $75,000 ($150,000 in the case of joint returns)."
+Rough translation: You lose 5 percent of the dollar amount above the applicable cap such as $50 for each $1,000 above the cap.
+For example, suppose you're married and file jointly, have no kids, and your adjusted gross income for 2007 was $174,000. In that case, you made too much to qualify for the payment. Why? Your income was $24,000 over the cap. Multiply $50 times 24. That's $1,200, the amount you would otherwise have received.
+If you're single (and have no kids) and your 2007 income was $87,000, you wouldn't get anything, either. That's because your income was $12,000 over the cap.
+Some people will get reduced amounts because of the phase-outs. Suppose you're married, file jointly, have $175,000 in wages and two qualifying kids. In that case, you typically would be eligible for a $550 payment. (Without the phase-out provision, you would have gotten $1,800. Because of the phase-out, it's reduced by $1,250, leaving $550.)
+Q: Why did Congress impose income limits?
+A: Lawmakers wanted to get the money into the hands of people most likely to spend it quickly and help reinvigorate the economy. "The rebates will go to middle-income Americans and those aspiring to it," says a statement from House Speaker Nancy Pelosi, a California Democrat. "The wealthiest taxpayers are not eligible for this relief."
+Q: Do I have to file a federal income-tax return for 2007 in order to get something this year?
+A: Yes. "You have to file a return for the 2007 tax year in order to receive a rebate check" during 2008, says an aide to Senate Finance Committee Chairman Max Baucus.
+The IRS "will calculate the rebate from that return, estimating the reduction in tax liability for 2008 that results in the rebate check," the aide says.
+Q: Suppose I have Social Security income and no tax liability for 2007. Do I still have to file a return to get a payment from the government this year?
+A: Yes. Those with Social Security income but no tax liability "should take special note of the need to file a return this year," replies the Baucus aide. "Nothing will change about the taxability of their Social Security income, but they do need simply to report the SS (Social Security) income on a return to receive the rebate."
+Q: Do I have to figure out how much I'm supposed to get this year?
+A: No. You don't have to apply. The Internal Revenue Service is supposed to handle it for you. As one congressional staffer put it, "all you have to know how to do is open an envelope" or tell the government how to zap your money electronically into your account.
+Q: Will Uncle Sam tax these payments?
+A: No, say representatives of the U.S. Treasury Department and congressional tax-writing committees.
+Q: But what about all these rumors that the payments will cut into what I get as my refund next year?
+A: They're wrong, congressional staffers say. "Please be aware that there have been erroneous reports that stimulus rebate checks are an advance on next year's tax refund, so that any refund a taxpayer might normally receive would be reduced by the amount of the 2007 stimulus check," says the Baucus aide. "This is not correct."
+Amy McAnarney, executive director for H&R Block's Tax Institute, says, "The actual credit will be calculated on your 2008 return. If you're due a higher credit, you'll get the remainder next year when you file. If you received a higher credit than you should have, you do not have to pay anything back."
+"What might happen next year," a House staffer says, "is that somebody who didn't get their full amount this year could get more, based on their return for 2008. For example, if you had a child born in 2008 and you were within the income caps, you'll get another benefit of $300 next year when you file your return for 2008."
+Q: How much of a stimulus will all these checks provide to the economy?
+A: Nobody knows, but about half of the analysts in a recent survey by WSJ.com said they thought the stimulus package would give the economy a "modest but welcome" lift. A further 24 percent thought it would have a "significant effect" on consumer spending.
+The package also includes new breaks for businesses. For example, the plan doubles the amount that many small businesses can write off immediately for capital investments made this year to $250,000 from $125,000.
+Q: Where can I get more details?
+A: The IRS (irs.gov) plans to post additional information soon, a spokesman says. Meanwhile, try the Web sites of the Senate Finance Committee (finance.senate.gov), House Ways and Means Committee (waysandmeans.house.gov) and the Joint Committee on Taxation (http://www.house.gov/jct). Also check out the CCH Web site (cchgroup.com). Click on the "Tax Legislation Update" banner to get to the special "CCH Tax Briefing."
+ Load-Date: February 14, 2008
+
+ 
+
+End of Document

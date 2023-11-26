@@ -1,0 +1,56 @@
+
+
+Wiring the world is one thing, making the Net truly global another
+The Associated Press
+December 19, 2003, Friday, BC cycle
+
+ Copyright 2003 Associated Press  All Rights Reserved
+Section: Domestic News; International News
+Length: 906 words
+Byline: By ANICK JESDANUN, AP Internet Writer
+Dateline: GENEVA
+Body
+
+
+
+
+Rahul Dewan typed "India" into the search box of an online stock photo service, hoping to find digital images of his native country. He found only three - all of flags.
+Dewan then typed "Switzerland," a country smaller than his, and found 33, while "USA" returned 72.
+His demonstration underscores a major challenge in getting the developing world online: Even with access, the Internet remains meaningless to most of the world's population, its Web sites heavy in English and reflecting a Western tilt.
+Dewan, managing director of the New Delhi software company Srijan Technologies, ultimately settled for Western faces and hands on his Web site, after failing to find Indian images he could use or a similar photo service catering to Indians.
+So much for promoting his company as a homegrown business.
+"They probably think this company belongs to somebody in the USA," Dewan lamented at last week's U.N. information technology summit. "Everything caters to the Western audience."
+People and organizations who work on connecting villages and schools throughout the world say their work only begins with providing Internet access and teaching people how to use computers.
+There must be compelling information, in native languages and mindful of local traditions and distinctions - such as audio and illustrations for the illiterate.
+"Getting technology into people's hands is one thing. Getting people to use it is key," said Daniel Wagner, director of the International Literacy Institute at the University of Pennsylvania.
+Much of the Web these days is built by private ventures - mostly in the West and mostly targeting where they believe the money is: the industrialized world.
+As a result, there's little specific to developing countries, which remain largely offline. According to the U.N. International Telecommunication Union, 70 percent of Internet users live in countries that make up only 16 percent of the world's population.
+Some delegates to last week's U.N. World Summit on the Information Society complained that even when Web sites aren't in English, they are usually in French, Spanish or one of a handful of other languages common in the industrialized world.
+Adama Samassekou, Mali's former minister of education, said languages spoken by millions of Africans, including Mandingo and Kiswahili, are virtually nonexistent online.
+With more than 95 percent of Pakistan's literacy base in Urdu, the Internet is relevant to only the country's elite 5 percent, said Awais Ahmad Khan Leghari, Pakistan's minister of information and technology.
+The solution involves more than translating English sites.
+To address illiteracy, South Africa is developing speech recognition, text-to-speech and other voice technologies, starting in Zulu. An open source model will let others adapt the tools for additional languages at little cost.
+Sherrin Issac, a policy director at South Africa's Department of Science and Technology, said many existing, Western technologies are inadequate - one voice compression algorithm, for instance, drops some "clicks" in conversations, changing the meaning of words.
+Bulgaria, South Korea and other countries, meanwhile, are producing government sites in native languages. But Internet users often must type English addresses to reach them.
+One Korean company, Netpia, has developed a proprietary keyword system, so a Korean typing "Yahoo" in that language would automatically get the Korean version of Yahoo Inc. Netpia executive Jason Sohn said some sites saw traffic triple after using such keywords.
+The Internet's key oversight body also is studying domain names entirely in non-English characters - instead of requiring ".com" or another English suffix.
+Other challenges remain.
+The Canadian government still must adapt its internal search engine to accommodate online materials in Inuktitut, the Inuit language. English and French speakers can find synonyms like "fast" and "quick" in one search, but extending that capability to Inuktitut first requires creating an electronic dictionary.
+In recent months, Microsoft Corp. began a local language program to help universities and governments adapt its software to more languages. King Letsie III of Lesotho, meanwhile, is promoting open source and free software as a way to let countries adapt tools for their domestic needs.
+A desire also exists to ensure that Web sites are culturally relevant - not limited to white faces, U.S. dollars and Western values. That, for instance, could mean write-ups in support of marrying cousins, a union rejected in the industrialized world.
+Jerry Kennelly, whose Irish-based photo service Stockbyte was the site Dewan had demonstrated, acknowledged that only a fifth of people featured there are non-Caucasian, reflecting marketing demands.
+"We're not in the business of running a charity," Kennelly said. "The minute we see a justifiable demand, we will be on it like a dog out of the traps at the greyhound races."
+Until then, the task of diversifying content has largely fallen on groups like Viva Rio, which has trained residents of Brazil's urban slums, the favelas, to write about themselves, countering the news about crime and other problems dominant in Western outlets.
+"The point is to produce more content that is useful," said Bernardo Sorj, an adviser to Viva Rio. "If people go on the Internet and do not find good content for themselves, then they go to pornography."
+Anick Jesdanun can be reached at netwriter(at)ap.org
+ Graphic
+
+
+
+ 
+AP Photo GNV102 of Dec. 18
+ Load-Date: December 20, 2003
+
+ 
+
+End of Document

@@ -1,0 +1,44 @@
+
+
+An AP New Dimensions Feature - HEAD: Spies In The Sky Helped Win The War
+The Associated Press
+March 29, 1991, Friday, BC cycle
+
+ Copyright 1991 Associated Press  All Rights Reserved
+Section: UNDEFINED
+Length: 834 words
+Body
+
+
+
+
+---
+ 
+ By DONALD J. FREDERICK
+National Geographic
+For AP Newsfeatures
+A fleet of more than 50 satellites - many of them top-secret spies in the sky over the Persian Gulf - had an impact on the outcome of Operation Desert Storm as far-reaching as the introduction of tanks and airplanes in modern warfare.
+Accelerating the rout of the Iraqis, the satellites helped direct air strikes, detect Scud missile launches and eavesdrop on enemy communications. Less bellicose chores included weather forecasting, mapping and helping soldiers find their way in featureless deserts.
+"It was a revolution in warfare," says John E. Pike, director of the space policy project for the Federation of American Scientists. "Never have we had so many satellites doing so many things for so many different military units."
+Although it's still too early to judge exactly how much difference the satellites made, most independent experts agree that things wouldn't have gone as smoothly without them. The Pentagon has a longstanding policy of not commenting on such "overhead" surveillance operations.
+"I think it's probably fair to say that we certainly would have won without them, but it may have taken longer and it may have been bloodier," says Jeffrey T. Richelson, a reconnaissance expert and author of "America's Secret Eyes in Space."
+The sharpest eyes in the sky belonged to a group of five or six "Keyhole" spacecraft code-named KH-11. A system of telescopes and mirrors, they are able to spot 6-inch objects - they could see a glove in the desert, but couldn't count the fingers - says one expert. Minutes after passing over a target, the satellites sent pictures of key targets to photograph interpreters.
+Some of the images were transmitted to small, portable stations in Saudi Arabia, enabling key officers in the field or on ships to get crucial pictures of Iraqi troop movements or installations, assess battle damage and plan future attacks.
+At least two Advanced KH-11s reportedly have infrared capability that enables them to take some pictures at night.
+A radar-imaging spacecraft called "Lacrosse" functions as the flagship of this flotilla. It is the only craft that can both view objects at night and take pictures through cloud cover. It proved invaluable when bad weather hampered air operations and obscured the vision of the KH-11 spacecraft. One of its many chores was to search for mobile Scud launchers moving around at night.
+The Keyhole spacecraft swept over Iraq and Kuwait twice daily, producing pictures of the region every two to four hours when cloud cover didn't interfere.
+Satellite images were used in some preflight briefings to familiarize coalition pilots with potential targets and to identify civilian areas that were to be avoided.
+Two Defense Support Program satellites equipped with infrared telescopes and detectors provided early warnings of Scud missile attacks. "They detected the infrared emissions of the plumes from Scud missiles when they were fired from Iraq, warning Patriot missile crews of imminent attacks," Richelson tells National Geographic.
+The most sensitive ears in the sky belonged to two or three eavesdropping spacecraft code-named Magnum and Vortex. Listening antennas on the spacecraft are so sensitive that they can pick up walkie-talkie transmissions.
+Since the satellites have trouble snatching communications from buried cables, one of the first battle objectives was to cripple land lines and force the Iraqis to use radio broadcasts that could be intercepted.
+"Signals intelligence was telling us things like the order of battle, which divisions we were facing on which front and where the Republican Guard was," says Pike.
+At least three clusters of naval ocean-surveillance satellites, designated "Parcae," kept track of enemy vessels at sea and helped enforce the embargo. Pike thinks the satellites, tethered in groups of four, use triangulation to determine the location of voice transmissions from suspicious vessels.
+The same triangulation technique, in which three or more satellites zero in on a target, was used by the Navstar Global Positioning System of 16 satellites to let U.S. ground forces know exactly where they were on the battlefield. Signals from the satellites were beamed to thousands of cigar-box-size, hand-held "black boxes," which show latitude and longitude.
+"Precise navigation also helps you deliver munitions on your target," points out Paul Stares of the Brookings Institution.
+Three military and three civilian weather satellites also played an indirect but important role. "Overlooked by most people," says Stares, "they were vital in a region plagued by variable weather patterns and sandstorms." They assisted in air reconnaissance and aerial refueling missions.
+Did the Soviet Union learn a lot of our overhead secrets during the war? Most experts don't think so.
+As Pike puts it, "The Russians were clearly interested in reading our play book, but you fight like you train, and the Russians have been watching us train for a long time."
+
+ 
+
+End of Document

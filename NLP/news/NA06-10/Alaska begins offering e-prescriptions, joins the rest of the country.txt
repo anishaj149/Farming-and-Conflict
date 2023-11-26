@@ -1,0 +1,44 @@
+
+
+Alaska begins offering e-prescriptions, joins the rest of the country
+The Associated Press
+August 17, 2007 Friday 4:40 AM GMT
+
+ Copyright 2007 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 773 words
+Byline: By JAMES HALPIN, Associated Press Writer
+Dateline: ANCHORAGE Alaska
+Body
+
+
+
+
+Electronic drug prescriptions can be delivered to pharmacists in all 50 states for the first time this week as Alaska became the final state to join the technological bandwagon.
+In the past year, Georgia, South Carolina and West Virginia have all joined the national network, and the change in Alaska regulations means doctors' hieroglyphic handwriting and prescription pads could soon be a thing of the past.
+Dick Holm, a member of the state Board of Pharmacy, said the process took so long to get to Alaska because "we're a small state and we address things as they come up." He said the change was not mandated by the federal government.
+After receiving several requests from doctors and businesses, he said the board investigated joining the network. Board members decided to do so, he said, because they didn't see drawbacks and thought doctors who wished to could continue to write by hand.
+Using electronic prescriptions has several notable perks, Holm said.
+It can reduce the risk of pharmacists incorrectly filling prescriptions because they can't understand doctors' handwriting. It promises to reduce paperwork and help thwart forgeries the electronic delivery ensures it is delivered directly to the pharmacy from the doctor.
+"Anytime you make a rule, somebody finds a way around it," Holm said. "But with the electronic prescription, the prescription is not in the individual's hands. If they don't have it, they can't copy it."
+According to Drug Enforcement Agency regulations, prescriptions for some controlled substances, such as OxyContin, cannot be transmitted electronically; a printed prescription is still required.
+But maintaining a database based on the electronic prescriptions could still help to "ferret out" people who are trying to get legal drugs illegally, said Jim Jordan, executive director of the Alaska State Medical Association.
+"Electronic information is at the forefront to providing better health care," he said.
+Some critics have said the program opens the door to new problems, such as hackers and data corruption. But Holm said the board was convinced the process is secure and individual doctors and pharmacies would be tasked with keeping it that way.
+Nancy Davis, executive director of the Alaska Pharmacists Association, said she supports the change, but its cost, including the software, could hurt some practitioners.
+"It's going to have a definite impact on the smaller pharmacies," Davis said. "The small, independent pharmacies are going to be the ones that lag behind, if anyone does."
+Shifting to electronic prescriptions requires a high-speed Internet connection, along with a special networking service and the doctors' prescription software, she said, and those costs have made some doctors and pharmacies reluctant to switch particularly among smaller businesses, which don't have the resources available to big corporations.
+Still, doctors who want to do things the old way aren't being forced to switch.
+"There's still a lot of doctors that are not used to utilizing their computers in their practice, so there's a little resistance," said Leslie Gallant of the Alaska State Medical Board. "It's the idea of being tied to the computer with an umbilical cord."
+There are dozens of software vendors that offer prescription-writing products, posing a serious compatibility challenge to doctors and pharmacists. The solution could be networks like the Pharmacy Health Information Exchange, operated by SureScripts.
+SureScripts is a privately held Virginia company, founded by the two main pharmacy trade groups, the National Association of Chain Drug Stores and the National Community Pharmacists Association.
+The exchange acts as an interface that allows users to access and send information securely between clients using differing software applications. That includes allowing doctors to access prescription histories and send new ones to pharmacists.
+That is beneficial because prescriptions can be filled between different states, said Rob Cronin, a spokesman for SureScripts. For example, people traveling can get a prescription filled without having to find a local doctor if they don't have their prescription with them.
+About 10 percent to 20 percent of doctors have the technology to send prescriptions electronically and about 5 percent of doctors use the network regularly, according to SureScripts.
+Democratic state Sen. Bettye Davis, chairwoman of the Health, Education and Social Services Committee, said that although it took a long time for Alaska to participate, the change will benefit everybody.
+"I wish we could have been involved in it much sooner, but better late than never," she said.
+ Load-Date: August 18, 2007
+
+ 
+
+End of Document

@@ -1,0 +1,51 @@
+
+
+Y2K: the glitch that didn't steal the new year
+The Associated Press
+January 1, 2000, Saturday, PM cycle
+
+ Copyright 2000 Associated Press  All Rights Reserved
+Section: Washington Dateline
+Length: 1062 words
+Dateline: WASHINGTON
+Body
+
+
+
+
+Breathing a collective sigh of relief, U.S. officials today began double-checking workplaces for any belated Y2K glitches while some banks opened early in a show of confidence. Americans started the new century without interruption in power, phones or transportation.
+The Pentagon, however, disclosed today that it was unable to process information from a reconnaissance satellite system for several hours Friday night because of a Y2K computer glitch on the ground.
+"For a short period we were not able to process the information the satellites were sending us," Deputy Defense Secretary John Hamre said. He said the problem was corrected after a few hours of using a backup system, but late this morning the Pentagon had not returned to "normal peacetime operation."
+Hamre declined to further identify the satellite system, except to say it did not involve Americans' early warning system. He said officials never lost control of the satellite.
+The 21st century began with no interruptions in air traffic, electricity or phones, although officials today disclosed some minor non-operational glitches with nuclear power plants, Amtrak and aviation computers.
+Officials turned their attention today to making the return to work Monday as uneventful, growing more confident that the $100 billion the nation spent to fix its computers had paid off.
+The Federal Emergency Management Agency this morning cut by half the 700 people it had monitoring the developments at 10 regional centers around the country.
+"Y2K has been a great challenge, but it is a challenge we have met," FEMA Director James Lee Witt said.
+John Koskinen, head of the President's Council on Y2K Conversion, said that by late morning five U.S. nuclear power plants had reported "very minor" Y2K-related problems with computer systems used for support functions.
+"None of those glitches effected anything to do with safe operations and most were corrected immediately after discovery," he said.
+Transportation Secretary Rodney Slater said at midmorning there had been no Y2K-related disruptions to highway traffic, air and rail service or energy pipeline flows.
+Amtrak reported a problem with the computers that automatically update posting boards with arrival and departure. But the officials kept the boards up to date manually.
+Slater said there was one minor disruption to a lone channel for providing notices to pilots but that the information was available through other channels. He did not specify the nature of the disruption.
+Some banks opened for business on New Year's Day in an effort to allay depositors' fears that Y2K glitches would create problems getting access to their accounts.
+Jean Kirshenbaum, spokeswoman for Summit Bank, said 90 percent of the bank's 440 branches in New Jersey, Pennsylvania and Conneticut were open today with none reporting any problems or unusually large withdrawals.
+Meanwhile, every federal agency was testing its computer systems anew today to make sure they still worked properly. There were no immediate reports of problems.
+American Samoa became the last part of the globe to ring in the new year, at 6 a.m. EST. Late this morning, the government's Y2K command center still had not reported any major Y2K glitches either domestically or internationally.
+The American people performed as well as their computers. Responding to warnings that panic was more dangerous than crashing computers, Americans took prudent precautions but made no rush to buy gasoline, withdraw money from banks or hoard food.
+Donna Tania, chairwoman of the Federal Deposit Insurance Corp., the agency that insures deposits at the nation's 10,300 banks and savings and loans, credited government and industry efforts to keep the public informed for the lack of panic.
+Keeping up those efforts, Tania showed up at 8 a.m. today to withdraw money from an automated teller machine one block from the White House.
+"It works," she said, holding up a $20 bill for the benefit of a bank of television cameras. "It's business as usual for banks and their customers."
+The good news rolled West around the world beginning at 6:00 a.m. EST when first New Zealand, then Australia and Asia reached midnight without reporting any major disruptions in public services. Even Russia, thought to be particularly vulnerable to computer breakdowns, met the new century with the lights on, the gas lines open and the nuclear plants intact.
+American officials have been claiming for months that they had successfully addressed the problem of older computers that confuse the year 2000 with 1900, posing the risk of serious breakdowns. Their optimism was largely borne out.
+The minor problems that did erupt across the country "are not the triggering events that would cascade into each other. That has always been the best case scenario," said Sen. Bob Bennett, R-Utah, who headed the Senate special Y2K panel that held dozens of hearings on the potential Y2K threat to the economy.
+Among those minor glitches, clocks in at least eight power plants jumped ahead at much as 35 hours when they lost contact with global positioning satellites. The clocks were quickly reset without interruptions in operations.
+The U.S. Naval Observatory, whose master clock in Washington serves as the nation's official source of time, reported the date as Jan. 1, "19100" during the earliest hours of the new year on its Internet site.
+But most of the reported disruptions coming into Koskinen's $50 million federal Y2K command post near the White House proved to have nothing to do with date-faulty computers.
+The Federal Aviation Administration reported momentary problems with printers in several transoceanic air traffic control centers and nuclear power plants in Pennsylvania and South Carolina were shut down by unrelated problems. In no case was safety at issue.
+Some of the nation's largest phone companies reported high volumes of regular phone traffic - six to eight times that of a normal evening - in the first half hour right after midnight hit the East Coast.
+"There was some minor blockages," said Paul Lacouture, group president of network services for Bell Atlantic.
+The first hard evidence that things were going well came not when the ball dropped in Times Square at midnight but five hours earlier, at zero hour Greenwich Mean Time, the London-based clock that is the standard for international aviation, weather services and shipping.
+ Load-Date: January 2, 2000
+
+ 
+
+End of Document

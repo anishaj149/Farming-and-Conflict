@@ -1,0 +1,31 @@
+
+
+Excerpts from the citation for the Nobel economics award
+October 9, 2002, Wednesday, BC cycle
+
+ Copyright 2002 Associated Press  All Rights Reserved
+Section: Business News; International News
+Length: 475 words
+Byline: By The Associated Press
+Body
+
+
+
+
+Excerpts from the Royal Swedish Academy of Sciences awarding the 2002 Nobel Memorial Prize in Economic Sciences on Wednesday to Daniel Kahneman and Vernon L. Smith for pioneering the use of psychological and experimental economics in decision-making.
+---
+Kahneman … integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty, … thereby laying the foundation for a new field of research.
+Vernon L. Smith … established laboratory experiments as a tool in empirical economic analysis, especially in the study of alternative market mechanisms … (and) laid the foundation for the field of experimental economics.
+---
+"Traditionally, much of economic research has relied on the assumption of a "homo oeconomicus" motivated by self-interest and capable of rational decision-making. Economics has also been widely considered a non-experimental science, relying on observation of real-world economies rather than controlled laboratory experiments. Nowadays, however, a growing body of research is devoted to modifying and testing basic economic assumptions; moreover, economic research relies increasingly on data collected in the lab rather than in the field. This research has its roots in two distinct, but currently converging, areas: the analysis of human judgment and decision-making by cognitive psychologists, and the empirical testing of predictions from economic theory by experimental economists. This years laureates are the pioneers in these two research areas.
+---
+Kahneman's main findings concern decision-making under uncertainty, where he has demonstrated how human decisions may systematically depart from those predicted by standard economic theory. Together with Amos Tversky (deceased in 1996), he has formulated prospect theory as an alternative, that better accounts for observed behavior.
+Kahneman has also discovered how human judgment may take heuristic shortcuts that systematically depart from basic principles of probability. His work has inspired a new generation of researchers in economics and finance to enrich economic theory using insights from cognitive psychology into intrinsic human motivation.
+---
+Vernon Smith developed an array of experimental methods, setting standards for what constitutes a reliable laboratory experiment in economics. In his own experimental work, he has demonstrated the importance of alternative market institutions, e.g., how the revenue expected by a seller depends on the choice of auction method.
+Smith has also spearheaded "wind-tunnel tests," where trials of new, alternative market designs - e.g., when deregulating electricity markets - are carried out in the lab before being implemented in practice. His work has been instrumental in establishing experiments as an essential tool in empirical economic analysis.
+ Load-Date: October 10, 2002
+
+ 
+
+End of Document

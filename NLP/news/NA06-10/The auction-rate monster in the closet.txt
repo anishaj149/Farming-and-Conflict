@@ -1,0 +1,46 @@
+
+
+The auction-rate monster in the closet
+The Associated Press
+August 29, 2008 Friday
+
+ Copyright 2008 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1218 words
+Byline: By ROBERT FRANK
+Body
+
+
+
+
+Bruce R. Foster, the chief financial officer of 4Kids Entertainment Inc., woke up to a puzzling email on Aug. 6, 2007.
+"Good morning," began the email from an executive at Wall Street's Lehman Brothers Holdings Inc. "I wanted to post you on one of the holdings in your portfolio. On Friday, August 3rd, Bluewater/Ram Holdings had more sellers than buyers in the auction and as a result, failed to offer liquidity to those who were seeking it."
+Five months later, the true meaning of the email became clear: 4Kids, a children's entertainment company, had lost millions from auction-rate securities.
+4Kids is one of hundreds of U.S. companies that have lost money in the auction-rate debacle. While some investors individuals, charities, municipalities are getting their money back as part of the $50 billion in settlements paid out by Wall Street, 4Kids and other companies are being left out.
+Regulators and Wall Street banks say larger companies and investment chiefs like Mr. Foster were sophisticated enough to take care of themselves.
+"The strength of the claim counts, and the smaller investors with less financial expertise have a better case," says New York state's attorney general, Andrew Cuomo, who has orchestrated many of the settlements with the Securities and Exchange Commission and other state securities regulators.
+In their settlements, Merrill Lynch & Co., Citigroup Inc., Goldman Sachs Group Inc. and UBS AG have agreed to buy back auction-rates from individual investors, charities or companies with accounts of less than $10 million. Companies with accounts of $10 million and up are largely excluded.
+Yet a close look at the experience of 4Kids shows that even corporate professionals like Mr. Foster were ill-informed about the auction-rates they were sold. Many also had a difficult time getting timely information about the extent and timing of their investment losses.
+"Clients with larger accounts were victimized just as much as smaller investors," says Michael Kim, a New York attorney who is representing 4 Kids, Northgate Minerals Corp., ABM Industries Inc. and other companies with a total about $600 million in illiquid auction-rate securities. "If a broker puts inappropriate securities in your account on its own, it does not matter how sophisticated you are."
+According to Pluris Valuation Advisors LLC, U.S. companies held nearly half of the $330 billion auction-rate market in June 2007. Their holdings dropped to about $100 billion by the end of 2007 because the companies sold some off. As of the end of July, 588 companies held auction-rates totaling $39 billion.
+Google Inc., Bed Bath & Beyond Inc., Starbucks Corp. and other companies purchased auction-rate securities, believing they were as dependable as cash. With the auction-rate market moribund, they are stuck with beaten-down holdings, unable to cash out.
+So 4Kids and Lehman are locked a legal battle over who is to blame for the company's losses, which could now total more than $15 million. 4Kids has filed a claim with the Financial Industry Regulatory Authority, which handles such investor disputes, demanding reimbursement for the auction-rates, plus damages.
+In a statement, Lehman says it "believes that the claims are meritless, and we will provide defenses and responses to them at the hearing, which is the appropriate time and place."
+"believes that the claims asserted are meritless, and we will provide defenses and responses to them at the appropriate time and place the hearing."
+Like many chief financial officers, Mr. Foster, 48 years old, has a background in accounting rather than investing. He joined 4Kids in 2002 after working as an auditor and accountant for more than 20 years. 4Kids, which licenses the TV cartoon characters Teenage Mutant Ninja Turtles and Yu-Gi-Oh!, had $55.6 million in revenue in 2007.
+In 2005, 4Kids opened an investment account with Lehman to manage some of its spare cash. The account, which grew to about $86 million in the summer of 2007, was discretionary, meaning Lehman could make investments without 4Kids' prior approval as long as it followed basic guidelines. The guidelines called for the "preservation of principal," "meeting all liquidity requirements" and "providing a competitive rate of return."
+"My focus is on operating and managing our business," says Mr. Foster. "I engaged Lehman to invest our cash and watch over our investment portfolio."
+Mr. Foster knew that Lehman would invest some of the money in auction-rates debt instruments that some brokers likened to stable money-market funds and other cash-like investments. Auction-rate securities were often issued by municipalities, universities, closed-end funds and others to lock in long-term funds at lower, short-term interest rates that reset regularly at auctions conducted by Wall Street firms. But as the credit crunch took hold, the auctions failed and the securities became illiquid.
+The species of auction-rate that Lehman placed in the 4Kids portfolio, however, was different. Known as "Triple X's," or more recently, "toxics," the securities were backed by pools of mortgage bonds called collateralized debt obligations, or tied to bond insurers' reserves of cash.
+According to account statements, Lehman invested more than $61 million of the company's money in auction rates most of them Triple X's. The securities had cryptic names like "INC2003-2" and "Potomac 2004-1," and there was little or no publicly available information about them. Lehman didn't send 4Kids any detailed descriptions of the securities until March 2008, after Mr. Foster requested it.
+The securities can only be purchased by "qualified institutional buyers," a legal definition that carries with it a variety of compliance procedures and pre-qualification screens. Wall Street firms are responsible for confirming in advance that clients are qualified buyers. Clients usually make that grade if they have $100 million or more in investable assets or if they sign a form saying they are qualified
+But 4Kids didn't seem to qualify under either rule. Its portfolio with Lehman never topped $100 million, and Lehman didn't ask Mr. Foster to sign a qualification form until Aug.22, 2007, after it had already placed the auction-rate securities in the 4Kids portfolio.
+Lehman put 4Kids into auction-rates between April and July 2007, ending just before the first auction failed. Virtually all of the auction-rate securities sold to 4Kids were created or structured by Lehman.
+Mr. Foster says he wasn't alarmed by the August 2007 email announcing the auction failure for Bluewater. He says he assumed that if his other auction-rate securities were at risk, Lehman would have told him. His account statements showed no decline in the value of the securities over the next four months a period of repeated auction failures and credit-market turmoil.
+Starting in early January, 4Kids' auction-rates were marked down several times, according to Mr. Foster. In July, 4Kids took a $15 million charge to equity to reflect the securities' value. The securities could be worth even less. Auction-rate experts say some of the 4Kids' securities could be 10 cents on the dollar.
+Meantime, 4Kids has been unable to pursue two potential acquisitions and several capital improvements because $46 million of its cash is locked up in auction-rates.
+ Load-Date: August 30, 2008
+
+ 
+
+End of Document

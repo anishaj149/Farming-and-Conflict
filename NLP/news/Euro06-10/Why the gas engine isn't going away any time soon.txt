@@ -1,0 +1,51 @@
+
+
+Why the gas engine isn't going away any time soon
+The Associated Press
+September 15, 2008 Monday
+
+ Copyright 2008 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1456 words
+Byline: By JOSEPH B. WHITE, The Wall Street Journal
+Body
+
+
+
+
+An automotive revolution is coming but it's traveling in the slow lane.
+High oil prices have accomplished what years of pleas from environmentalists and energy-security hawks could not: forcing the world's major auto makers to refocus their engineers and their capital on devising mass-market alternatives to century-old petroleum-fueled engine technology.
+With all the glitzy ads, media chatter and Internet buzz about plug-in hybrids that draw power from the electric grid or cars fueled with hydrogen, it's easy to get lulled into thinking that gasoline stations soon will be as rare as drive-in theaters. The idea that auto makers can quickly execute a revolutionary transition from oil to electricity is now a touchstone for both major presidential candidates.
+That's the dream. Now the reality: This revolution will take years to pull off and that's assuming it isn't derailed by a return to cheap oil. Anyone who goes to sleep today and wakes up in five years will find that most cars for sale in the U.S. will still run on regular gas with a few more than today taking diesel fuel. That will likely be the case even if the latter-day Rip Van Winkle sleeps until 2020.
+Cars aren't iPods or washing machines. They are both highly complex machines and the enablers of a way of life that for many is synonymous with freedom and opportunity not just in the U.S., but increasingly in rising nations such as China, India and Russia.
+Engineering and tooling to produce a new vehicle takes three to five years and that's without adding the challenge of major new technol-ogy. Most car buyers won't accept "beta" technology in the vehicles they and their families depend on every day. Many senior industry executives including those at Japanese companies have vivid memories of the backlash against the quality problems that resulted when Detroit rushed smaller cars and new engines into the market after the gas-price shocks of the 1970s. The lesson learned: Technological change is best done incrementally.
+Technological inertia isn't the only issue. Cars powerful enough and large enough to serve multiple functions are integral to modern life, particularly in suburban and rural areas not well served by mass transit.
+Ditching the internal-combustion engine could mean ditching the way of life that goes with it, and returning to an era in which more travel revolves around train and bus schedules, and more people live in smaller homes in dense urban neighborhoods.
+Economic and cultural forces high gas prices and empty-nest baby boomers bored with the suburbs are encouraging some Americans to return to city life, but by no means all. In rising economies such as China, meanwhile, consumers are ravenous for the mobility and freedom that owning a car provides.
+That doesn't mean auto makers and their technology suppliers aren't serious about rethinking the status quo. But displacing internal-combustion engines fueled by petroleum won't be easy and it won't be cheap.
+It also may not make sense. Over the past two decades, car makers have at times declared the dawn of the age of ethanol power, hydrogen power and electric power only to wind up back where they started: confronting the internal-combustion engine's remarkable combination of low cost, durability and power. One effect of higher oil prices is that car makers now have strong incentives to significantly improve the technology they already know.
+"There are a lot of improvements coming to the internal-combustion engine," says John German, manager for environmental and energy analysis at Honda Motor Co.'s U.S. unit.
+Refinements to current gasoline motors, driven by advances in electronic controls, could result in motors that are a third to half the size and weight of current engines, allowing for lighter, more-efficient vehicles with comparable power. That, Mr. German says, "will make it harder for alternative technologies to succeed."
+By 2020, many mainstream cars could be labeled "hybrids." But most of these hybrids will run virtually all the time on conventional fuels. The "hybrid" technology will be a relatively low-cost "micro hybrid" system that shuts the car off automatically at a stop light, and then restarts it and gives it a mild boost to accelerate.
+Gasoline and diesel are the world's dominant motor-vehicle fuels for good reasons. They are easily transported and easily stored. They deliver more power per gallon than ethanol or other biofuels. And until recently petroleum fuels were a bargain, particularly for consumers in the U.S. Even now, gasoline in the U.S. is cheaper by the gallon than many brands of bottled water.
+Car makers have made significant advances in technology to use hydrogen as a fuel, either for a fuel cell that generates electricity or as a replacement for gasoline in an internal-combustion engine. But storing and delivering hydrogen remains a costly obstacle to mass marketing of such vehicles.
+Natural gas has enjoyed a resurgence of interest in the wake of big new gas finds in the U.S., and Honda markets a natural-gas version of its Civic compact car.
+But there are only about 1,100 natural-gas fueling stations around the country, of which just half are open to the public, according to the Web site for Natural Gas Vehicles for America, a group that represents various natural-gas utilities and technology providers.
+Among auto-industry executives, the bet now is that the leading alternative to gasoline will be electricity. Electric cars are a concept as old as the industry itself. The big question is whether battery technology can evolve to the point where a manufacturer can build a vehicle that does what consumers want at a cost they can afford.
+"The No. 1 obstacle is cost," says Alex Molinaroli, head of battery maker Johnson Controls Inc.'s Power Solutions unit. Johnson Controls is a leading maker of lead-acid batteries standard in most cars today and is working to develop advanced lithium-ion automotive batteries in a joint venture with French battery maker Saft Groupe SA.
+Cost is a problem not just with the advanced batteries required to power a car for a day's driving. There's also the cost of redesigning cars to be lighter and more aerodynamic so batteries to power them don't have to be huge.
+There's the cost of scrapping old factories and the workers that go with them a particular challenge for Detroit's Big Three auto makers, which have union agreements that make dismissing workers difficult and costly.
+A world full of electricity-driven cars would require different refueling infrastructure but the good news is that it's already largely in place, reflecting a century of investment in the electric grid.
+The refueling station is any electric outlet. The key will be to control recharging so it primarily happens when the grid isn't already stressed, but controllers should be able to steer recharging to off-peak hours, likely backed by discount rates for electricity.
+Big utilities in the two most populous states, California and Texas, are adding millions of smart meters capable of verifying that recharging happens primarily in periods when other electricity use is slack. Studies show the U.S. could easily accommodate tens of millions of plug-in cars with no additional power plants. Three big utilities in California are planning to install smart meters capable of managing off-peak recharging. The estimated cost: $5 billion over the next five years.
+Americans often reach for two analogies when confronted with a technological challenge: The Manhattan Project, which produced the first atomic bomb during World War II, and the race to put a man on the moon during the 1960s. The success of these two efforts has convinced three generations of Americans that all-out, spare-no-expense efforts will yield a solution to any challenge.
+This idea lives today in General Motors Corp.'s crash program to bring out the Chevrolet Volt plug-in hybrid by 2010 even though the company acknowledges the battery technology required to power the car isn't ready.
+Even if GM succeeds in meeting its deadline for launching the Volt, the Volt won't be a big seller for years, especially if estimates that the car will be priced at $40,000 or more prove true.
+Moon-shot efforts like the Volt get attention, but the most effective ways to use less energy may have less to do with changing technology than with changing habits.
+A 20-mile commute in an electric car may not burn gasoline, but it could well burn coal the fuel used to fire electric power plants in much of the U.S. The greener alternative would be to not make the drive at all, and fire up a laptop and a broadband connection instead.
+Mr. White is a senior editor for The Wall Street Journal in Washington. He can be reached at joseph.white@wsj.com
+ Load-Date: September 16, 2008
+
+ 
+
+End of Document

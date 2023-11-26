@@ -1,0 +1,27 @@
+
+
+Excerpts from the citation of the 2007 Nobel Memorial Prize in Economic Sciences
+The Associated Press
+October 15, 2007 Monday 11:23 AM GMT
+
+ Copyright 2007 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 312 words
+Dateline: STOCKHOLM Sweden
+Body
+
+
+
+
+Excerpts from the citation awarding the 2007 Nobel Memorial Prize in Economic Sciences to Americans Leonid Hurwicz, Eric S. Maskin and Roger B. Myerson "for having laid the foundations of mechanism design theory."
+Adam Smith's classical metaphor of the invisible hand refers to how the market, under ideal conditions, ensures an efficient allocation of scarce resources.
+But in practice, conditions are usually not ideal; for example, competition is not completely free, consumers are not perfectly informed and privately desirable production and consumption may generate social costs and benefits.
+Furthermore, many transactions do not take place in open markets but within firms, in bargaining between individuals or interest groups and under a host of other institutional arrangements. How well do different such institutions, or allocation mechanisms, perform? What is the optimal mechanism to reach a certain goal, such as social welfare or private profit? Is government regulation called for, and if so, how is it best designed?
+These questions are difficult, particularly since information about individual preferences and available production technologies is usually dispersed among many actors who may use their private information to further their own interests.
+Mechanism design theory, initiated by Leonid Hurwicz and further developed by Eric Maskin and Roger Myerson, has greatly enhanced our understanding of the properties of optimal allocation mechanisms in such situations, accounting for individuals' incentives and private information.
+The theory allows us to distinguish situations in which markets work well from those in which they do not. It has helped economists identify efficient trading mechanisms, regulation schemes and voting procedures. Today, mechanism design theory plays a central role in many areas of economics and parts of political science.
+ Load-Date: October 16, 2007
+
+ 
+
+End of Document

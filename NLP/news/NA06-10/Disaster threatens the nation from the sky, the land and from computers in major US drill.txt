@@ -1,0 +1,43 @@
+
+
+Disaster threatens the nation from the sky, the land and from computers in major US drill
+The Associated Press
+January 31, 2008 Thursday 7:01 PM GMT
+
+ Copyright 2008 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 920 words
+Byline: By TED BRIDIS, Associated Press Writer
+Dateline: WASHINGTON 
+Body
+
+
+
+
+In the middle of the biggest-ever "Cyber Storm" war game to test the nation's hacker defenses, someone quietly targeted the very computers used to conduct the exercise.
+The surprising culprit? The players themselves, the same government and corporate experts responsible for detecting and fending off attacks against vital computer systems, according to hundreds of pages of heavily censored files obtained by The Associated Press. Perplexed organizers sent everyone an urgent e-mail marked "IMPORTANT!" instructing them not to probe or attack the game's control computers.
+"Any time you get a group of (information technology) experts together, there's always a desire, 'Let's show them what we can do,'" said George Foresman, a former senior Homeland Security official. "Whether its intent was embarrassment or a prank, we had to temper the enthusiasm of the players."
+The exercise was a big deal for all concerned.
+The $3 million, invitation-only war game simulated what the U.S. describes as plausible attacks over five days in February 2006 against the technology industry, transportation lines and energy utilities by anti-globalization hackers. The government is organizing a multimillion-dollar "Cyber Storm 2," to take place in early March.
+Among the mock disasters confronting officials in the previous exercise: Washington's Metro trains shut down. Seaport computers in New York went dark. Bloggers revealed locations of railcars with hazardous materials. Airport control towers were disrupted in Philadelphia and Chicago. Overseas, a mysterious liquid was found on London's subway.
+The list of fictional catastrophes which also included hundreds of people on "No Fly" lists suddenly arriving at airport ticket counters is significant because it suggests what kind of real-world trouble keeps the White House awake at night. Railway switches failed. Planes flew too close to the White House. Water utilities in Los Angeles were compromised.
+The Homeland Security Department ran the exercise, with help from the State Department, Pentagon, Justice Department, CIA, National Security Agency and others.
+Imagined villains included hackers, bloggers and even reporters. In one scenario, after mock electronic attacks overwhelmed computers at the Port Authority of New York and New Jersey, an unspecified "major news network" airing reports about the attackers refused to reveal its sources to the government. Other simulated reporters were duped into spreading "believable but misleading" information that confused the public and financial markets, according to the government's documents.
+The upcoming "Cyber Storm 2" in March also will simulate electronic attacks against chemical plants and communication lines, and include targets in California, Colorado, Delaware, Illinois, Michigan, North Carolina, Pennsylvania, Texas and Virginia.
+"They point out where your expectations of your capabilities may be overstated," Homeland Security Secretary Michael Chertoff told the AP. "They may reveal to you things you haven't thought about. It's a good way of testing that you're going to do the job the way you think you were. It's the difference between doing drills and doing a scrimmage."
+The AP obtained the Cyber Storm internal records nearly two years after it requested them under the Freedom of Information Act. The government censored most of the 328 pages it turned over, marked "For Official Use Only," citing rules against disclosing sensitive information. The government is still reviewing hundreds more documents before they can be turned over to the AP.
+"Definitely a challenging scenario," said Scott C. Algeier, who runs a cyber-defense group for leading technology companies, the Information Technology Information Sharing and Analysis Center.
+For the participants including government officials from the United States, England, Canada, Australia and New Zealand and executives from technology and transportation companies the mock disasters came fast and furious: hacker break-ins at an airline; stolen commercial software blueprints; problems with satellite navigation systems; trouble with police radios in Montana; school closures in Washington, Miami and New York; computer failures at border checkpoints.
+The incidents, designed to tax responders, were divided among categories: computer attacks, physical attacks and psychological operations.
+"We want to stress these players," said Jeffrey Wright, the former Cyber Storm director for the Homeland Security Department. "None of the players took 100 percent of the correct, right actions. If they had, we wouldn't have done our job as planners."
+How did they do? Reviews were mixed. Companies and governments worked successfully in some cases. But key players didn't understand the role of the premier U.S. organization responsible for fending off major cyber attacks, called the National Cyber Response Coordination Group, and it didn't have enough technical experts. Also, the sheer number of mock attacks complicated defensive efforts.
+The little-known Cyber Response group, headed by the departments of Justice and Homeland Security, represents the largest government departments, including law enforcement and intelligence agencies.
+The 2006 exercise had no impact on the real Internet. Officials said they were careful to simulate attacks using only isolated computers, working from basement offices at the Secret Service's headquarters in downtown Washington.
+On the Net:
+Homeland Security Department: http://www.dhs.gov
+Justice Department: http://www.usdoj.gov
+ Load-Date: February 1, 2008
+
+ 
+
+End of Document

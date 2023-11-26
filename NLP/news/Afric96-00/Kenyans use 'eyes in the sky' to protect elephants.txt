@@ -1,0 +1,50 @@
+
+
+Kenyans use 'eyes in the sky' to protect elephants
+The Associated Press
+July 11, 1998, Saturday, AM cycle
+
+ Copyright 1998 Associated Press  All Rights Reserved
+Section: International News
+Length: 947 words
+Byline: KARIN DAVIES, Associated Press Writer
+Dateline: MERU NATIONAL PARK, Kenya
+Body
+
+
+
+
+Flying high above the treetops, a bush pilot taps on a laptop computer to activate a beacon mounted on a collar around an elephant's neck.
+Instantly, the laptop screen lights up with a series of squares that track the great bull's wanderings at one-hour intervals for the past month.
+By recording elephants' movements with Global Positioning System satellites 11,000 miles above the Earth, Iain Douglas-Hamilton and the Kenya Wildlife Service are learning about elephants' needs and how better to protect them.
+"We still think the ivory trade is the greatest short-term threat to elephants," Douglas-Hamilton, founder of Save the Elephants, said. "But we also are very aware that the future of elephants lies in resolving conflicts with local people."
+The Global Positioning System can help rangers deploy better to prevent poaching, and to help elephants be better neighbors, he said.
+Touted as the biggest navigational advance since mariners learned to read their position by the stars with sextants, GPS relies on a galaxy of 26 U.S. Air Force satellites traveling in six orbits.
+The satellites transmit signals on a schedule precisely controlled by atomic clocks. A receiver automatically selects the three satellites most favorably located and relays their signals to a computer, which calculates the position of the receiver by solving three simultaneous algebraic equations. Use of a fourth satellite adds altitude.
+The system Douglas-Hamilton uses is accurate to within just under 50 yards. (The U.S. military can pinpoint a location within 30 feet, but only American forces are equipped to get that much accuracy from the satellites.)
+The GPS-linked system has huge advantages over conventional radio tracking, which requires a new flyover each time researchers want to know where an elephant is. The GPS system stores up a month's worth of precise location data, then transmits it to an airplane in a single burst.
+On a recent sun-drenched day, Douglas-Hamilton led with military precision an operation to install a GPS collar on a 10th Kenyan elephant.
+Before nearby Mount Kenya had shed its morning cloak of clouds, an air search began for one of two herds of 200 elephants in Meru National Park, among Kenya's least visited, most unspoiled parks - and a target of ivory poachers.
+When a healthy, 27-year-old bull was spotted, a helicopter zoomed in and a veterinarian fired a tranquilizing dart with a needle the size of a nail into the animal's rump.
+Within minutes, the behemoth fell with a dusty thump, his thick legs splayed front and back, feather-duster eyelashes flapping placidly.
+The bull's treasure and curse, polished ivory tusks, measured nearly three feet long. Already this year, seven of his brethren were slain by poachers. Their tusks sell for $ 20 a pound to black market carvers in Khartoum, Sudan, and elsewhere.
+Ivory poachers slaughtered an estimated 147,000 Kenyan elephants in the 1970s and 1980s. There are 27,000 alive in this East African country today.
+Douglas-Hamilton climbed atop the dozing elephant's shoulder to haul around the 11-pound collar crafted from thick machine belting. With a battery-powered screwdriver, he added an extension so the collar would hang loosely - even at 27 an elephant needs plenty of growing room.
+Dangling like a pendant at the bottom of the collar was a lithium battery, expected to last 1 years. Bolted to the top like a clasp was the GPS antenna, plus a standard VHF transmitter.
+The elephant's tattered ears were doused with water to keep him cool. The vet held his hand to the trunk to be sure the beast was breathing normally. A dozen armed rangers provided protection.
+Operation over in less than 15 minutes, the bull was given a reviving injection. He toppled twice in his struggle to regain consciousness, then wandered off into the scrub brush, the collar recording his movements.
+The tracking collars cost $ 6,800 each, and were designed by Lotek Engineering of Ontario, Canada, to track caribou in Quebec. The collars had to be strengthened for elephants - a German-made prototype lasted for just 10 days.
+Although initially irritating to the elephant, the collar does not harm the animal, Douglas-Hamilton said.
+Meru's warden, Maurice Barasa, is optimistic the sophisticated tracking system will enable him to crack down on the lingering poachers in the park, where Joy and George Adamson once raised orphaned lion cubs until they were old enough to be returned to the wild.
+A decade ago, poachers ruled here. Two French tourists were shot dead when they unwittingly drove into a poacher hideout. The late George Adamson and the Kenyan government made a largely successful effort to rout them, but some remain.
+Barasa has 580 square miles to protect, and when the animals leave the park and reserve, he remains responsible for them. He has just 60 rangers, plus one pilot, to patrol.
+"Being able locate the elephants with GPS will make us faster on the ground," he said.
+Poachers usually stick to routes where they know they can find water and food. "If we know the herd is in the general area where there is a potential threat, we could surround it and cut off the bandits' routes," Barasa said.
+Douglas-Hamilton said the GPS collars already have helped save elephants.
+By putting GPS beacons on two bulls in Amboseli National Park 185 miles to the south, he was able to document what researcher Cynthia Moss previously had reported - that Kenya's protected animals spend much of their time across the border in Tanzania.
+The data helped persuade Tanzanian authorities to formally ban all hunting near the border after four Amboseli bulls were killed in Tanzania in 1994. Kenya does not permit hunting, but Tanzania does.
+ Load-Date: July 11, 1998
+
+ 
+
+End of Document

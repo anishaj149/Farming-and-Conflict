@@ -1,0 +1,44 @@
+
+
+Looming Question in Barings Fiasco: Who Will Be Holding The Bag?
+The Associated Press
+March 1, 1995, Wednesday, AM cycle
+
+ Copyright 1995 Associated Press  All Rights Reserved
+Section: Business News
+Length: 738 words
+Byline: By ROB WELLS, AP Business Writer
+Dateline: WASHINGTON
+Body
+
+
+
+
+One of the many questions in the Barings PLC bank collapse is who will be left holding the bag on the Singapore futures exchange after a 28-year-old rogue trader bet the house and lost.
+If all goes well, money and loans that Barings put up as collateral, along with a special fund run by exchange members, will be enough to pay off Barings' open trades on the Singapore International Monetary Exchange, or Simex.
+But if those funds aren't sufficient, the Singapore offices of a dozen prominent U.S. financial firms - including Merrill Lynch & Co., Citicorp and Goldman Sachs & Co. - will have to share in the losses, regulators and industry officials said Tuesday.
+That's because they're among the 39 international banks and securities firms belonging to the Simex clearing corporation.
+That entity steps up to the plate to protect buyers and sellers of futures contracts from financial loss by assuring each trade on the exchange will be completed - even if a company that initiated the trades runs out of money and goes out of business.
+Mary Schapiro, chairman of the Commodity Futures Trading Commission, said it's too early to tell if the Simex clearing corporation members will be asked to share in the losses by paying an extra "assessment" relating to Barings. There are several other sources of funds that would be tapped before the clearing corporation members are asked to share the losses.
+"We don't know if they will have to pick up anything from the Baring losses," Schapiro said.
+Schapiro, in an interview, also agreed that much still isn't known about the Barings case, including the total loss the British merchant bank expects to sustain from trades on the Simex.
+A senior Treasury Department official, speaking on condition of anonymity, echoed Schapiro's comments.
+"I don't think the authorities over there know (about the losses) until they unwind all the contracts," the official said.
+The Bank of England seized the 232-year-old Barings over the weekend after it discovered Nick Leeson, a futures trader in its Singapore office, had made massive unauthorized trades, gambling the Tokyo stock market would rise.
+Regulators have said the losses are about $ 1 billion, but that sum could fluctuate depending on how administrators have acted in resolving the futures contracts purchased by Leeson on the Singapore exchange.
+Investing on futures markets is risky because players in effect bet on whether the price of something will go up or down. Since the amount invested is a small fraction of the overall value of the futures contract, the potential profits or losses can be huge if prices make an unexpectedly large move.
+Regulators declined to disclose the size of Leeson's trading positions on the Simex in futures contracts tied to the Nikkei 225 index, a popular barometer of the Tokyo stock market. Several industry sources say the trades are believed to be substantial.
+Singapore Finance Minister Richard Hu, speaking Wednesday before that country's Parliment, said the Simex holds sufficient margins against Barings' open positions in Nikkei-225 contracts.
+Hu added that Simex has sold off "most" of Barings' open positions and if the Japanese market remains orderly, then Simex won't need to call on additional funds to close out the trades.
+But the regulators still haven't publicly disclosed the size of the eventual loss from such activities.
+The CFTC's Schapiro outlined a number of steps that Simex officials will take to resolve the remaining Barings trades, a process Singapore officials borrowed from the Chicago Mercantile Exchange.
+The Singapore exchange will take the margin, or collateral, Barings pledged for the Nikkei futures trades. After that, it would turn to a security deposit, loans and other Barings assets, including its seat on the exchange, if necessary.
+Then Simex would tap two funds established by clearing members.
+"And then, at that point, if there are any remaining losses, they would be apportioned to the clearing members," Schapiro said. She emphasized that the local offices of the U.S. firms would bear the financial pain, not the parent firms.
+A sampling of U.S. firms with units that are Simex members - Merrill Lynch & Co., Refco, BankAmerica Corp., and J.P. Morgan & Co. - all said Tuesday they hadn't been contacted yet to share in the Barings losses.
+The system is set up so individual customers of Barings and the other clearing members are protected from the liquidation, she said.
+ Load-Date: March 1, 1995
+
+ 
+
+End of Document

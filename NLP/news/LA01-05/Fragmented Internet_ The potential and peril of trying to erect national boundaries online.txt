@@ -1,0 +1,64 @@
+
+
+Fragmented Internet: The potential and peril of trying to erect national boundaries online
+January 4, 2001, Thursday, BC cycle
+
+ Copyright 2001 Associated Press  All Rights Reserved  The Associated Press
+Section: Domestic News; Business News
+Length: 1008 words
+Byline: By ANICK JESDANUN, AP Internet Writer
+Dateline: SANTA CLARA, Calif.
+Body
+
+
+
+
+As appealing as the borderless Internet may be, Yahoo! sports producer Tonya Antonucci is willing to sacrifice the idea for a shot at Webcasting the Olympics.
+Broadcasting rights to the Games and other copyrighted sports events are typically sold regionally. So to win future rights, online businesses like Yahoo! are looking to break the Net into regions.
+Existing Internet addressing schemes, Antonucci insists, allow Web sites to pinpoint a visitor's geographical location - and thus block out surfers from certain countries. Though hardly 100 percent effective, Antonucci says, "The technology is basically here."
+Antonucci is not alone in arguing for techniques that could effectively erect national boundaries in a medium designed to circumvent barriers. As nations assert their legal and cultural norms on their piece of the planet, efforts to divide the Net into separate sovereignties could become increasingly popular.
+A Paris court recently ordered Santa Clara-based Yahoo! to prevent French Internet users from seeing Nazi paraphernalia on its auction pages. China, meanwhile, has threatened to create a separate network of Chinese sites.
+As technology matures, more attempts at cyberspace segmenting are likely.
+Alan Davidson, staff counsel with the Center for Democracy and Technology in Washington, D.C., fears the result could split the World Wide Web into regional virtual fiefdoms "where you've got to show your ID at the door."
+The free exchange of ideas could be inhibited, he says, by governments intent on blocking materials posted on foreign sites - or by Web sites trying to restrict distribution of specific content.
+Erecting borders, says Harvard University law professor Jonathan Zittrain, could turn a truly revolutionary technology into just another mainstream commodity. A mom-and-pop business in South America, he says, could thereby lose a worldwide customer base.
+The most popular method for location detection uses the very technology that locates computers on the Internet. The technique is called reverse Internet Protocol lookup: A Web site tries to determine users' locations by checking their numeric return addresses, or IP addresses, against databases that list their service providers.
+Thus, an address that begins with "24.92" is likely from a Time Warner cable system in the United States. Addresses starting with "161.23" are assigned to the London Hospital Medical College.
+Microsoft Corp. and other companies used the technique to comply with U.S. regulations that, until last year, prohibited the export of strong-encryption Web browsers.
+But the technique has its loopholes. In the browser download routine, some legitimate users complained about being blocked. Meanwhile, copies of the stronger browsers found their way abroad despite the efforts.
+There are many ways to circumvent reverse IP lookup.
+Though expensive, a French user could make a phone call to the United States to access a U.S. service provider, such as Earthlink. From the Internet's point of view, that computer would appear to be in the United States. In addition, anonymizing services exist that allow users to hide their true geographic origins.
+Because reverse lookup tracks users' Internet providers - and not necessarily their own individual computers, "it can be a very misleading indicator," says Vinton Cerf, one of the Net's early developers.
+"It has nothing to do with the specific location," Cerf says. "It has to do with the operator of the network."
+A New York-based company, for instance, may register all addresses in New York, though some computers on its networks are in Tokyo, London and other branch offices.
+Ben Laurie, a British Web-server expert who advised the French court in the Yahoo! case, says IP checks are accurate only for people who are law-abiding.
+"If people find they are blocked, they can work around it easily," Laurie says. "You'll only get the 70, 80 percent of people who aren't trying to work around it."
+Still, companies like InfoSplit Inc. of New York and NetGeo Inc. in Mountain View, Calif., are developing ways to improve accuracy, down to the ZIP code or city in the United States.
+Location detection will improve, Harvard's Zittrain says, as more users use wireless devices that link with global-positioning satellites, or as they connect through high-speed broadband networks that prohibit long-distance phoning.
+Some Web sites already use location detection for targeting advertisements geographically - and to reduce Net congestion by steering visitors to servers closer to them that "mirror" the original site's content.
+One day, U.S. states might adapt a refined reverse lookup to collect sales taxes. Olympic broadcasters might use it to keep video streamed online from U.S. Web users, for example, while allowing Asian viewers to tune in.
+To improve accuracy, Yahoo!'s Antonucci says sports sites may supplement IP techniques with credit-card registrations or other physical checks. In that case, someone would be permitted access only with prior authentication.
+Interestingly, detractors of such requirements include colleagues of Antonucci at Yahoo!
+Company lawyer Greg Wrenn says they would be burdensome - and intrusive for general browsing.
+IP techniques alone, says Wrenn, would fail to address the requirements of the Nov. 20 French ruling, which imposes $13,000 a day in fines unless Yahoo! completely bars French users from viewing Nazi materials banned under French law.
+(Yahoo! announced last week that it will ban such materials from its sites, though the court ruling remains in effect and under challenge by the company).
+Borders are "just antithetical to the nature of the Internet," says Heather Killen, senior vice president for international operations at Yahoo! "You can't really stop people from being able to access all of the information."
+---
+ 
+Yahoo!: http://www.yahoo.com 
+Center for Democracy and Technology, which has French ruling: http://www.cdt.org 
+Laurie's statement: http://www.apache-ssl.org/apology.html 
+IP databases and tools:
+http://ipindex.net 
+http://www.bordercontrol.com 
+ Graphic
+
+
+
+ 
+AP Graphic IP LOOKUP
+ Load-Date: January 9, 2001
+
+ 
+
+End of Document

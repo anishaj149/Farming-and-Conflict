@@ -1,0 +1,59 @@
+
+
+Technology Report: Ahead of the pack
+The Associated Press
+September 24, 2007 Monday 4:54 PM GMT
+
+ Copyright 2007 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1672 words
+Byline: By MICHAEL TOTTY, The Wall Street Journal
+Body
+
+
+
+
+HIGH BLOOD PRESSURE is a killer. Nearly a billion people around the world and one out of three in the U.S. suffer from the condition. Yet no new therapy has been developed in a dozen years. Until now.
+Scientists at Switzerland's Novartis AG and Speedel Holding Ltd. have developed a drug that promises to control hypertension by blocking an enzyme that can trigger it. The drug, Tekturna, has been approved by U.S. and European Union regulators.
+Tekturna is the Gold winner in The Wall Street Journal's seventh annual Technology Innovation Awards contest. Judges from business, research and academic organizations chose winners in 12 categories, along with overall Gold, Silver and Bronze winners and one Honorable Mention.
+A Wall Street Journal editor screened more than 800 applications, narrowing the field to about 150 entries. The judges picked the category winners and runners-up. A technology had to be a breakthrough from traditional methods, not just an incremental improvement.
+The Silver went to Aqua Sciences Inc., Miami Beach, Fla., which has devised a way to pull drinking water from the air, even in the driest parts of the world. Similar systems work effectively only in places with high humidity. The technology uses a blend of salts to collect water, then employs a combination of heat, chemistry and mechanics to extract the water from the salts. Aqua Sciences has sold systems to the U.S. Army and the Federal Emergency Management Agency.
+The Bronze went to Joost NV, Luxembourg, for a free service that delivers TV programming over the Internet. Unlike YouTube and other video sites, Joost offers full-length and full-screen programs. Founders Janus Friis and Niklas Zennstroem also developed the Skype Internet phone service and Kazaa file-sharing service. Like Kazaa, Joost uses peer-to-peer technology for faster, more reliable downloads. But unlike Kazaa, which faced charges that it encouraged piracy, Joost is signing deals with big media companies.
+Honorable Mention went to Electronic Learning Products Inc., Tampa, Fla., for Tune in to Reading software that helps students boost their reading skills while seeming to improve their singing. Students sing into a microphone, following along with lyrics on a computer screen. The software scores the singer by how much of the performance is on pitch; at the same time, repeatedly reading the lyrics improves word-recognition and sight-reading skills.
+Here are the winners in the industry categories, along with comments from the judges.
+COMPUTING SYSTEMS
+NComputing Inc., Redwood City, Calif., won for a low-cost method of sharing a personal computer with as many as 30 users. People get a box on their desk, wired to a central PC, with connections for a monitor, keyboard and mouse as well as software that shares the processing power and applications of the host PC. NComputing says that 90 percent of its sales are to the U.S. K-12 market, and that it has signed a deal to provide its system to schoolchildren in Macedonia in partnership with China's Haier Group.
+ENERGY
+Co-winner Firefly Energy Inc., Peoria, Ill., developed a power supply that replaces the heavy lead plates in typical vehicle batteries with a carbon-graphite foam.
+The result is smaller and lighter yet can deliver as much power as more advanced and more costly technologies. Though its batteries aren't yet on the market, Firefly has signed a deal with Sweden's Husqvarna Group to provide batteries for the outdoor-equipment maker's planned line of electric lawn mowers and lawn tractors. And in March Firefly received $5 million from the U.S. Army to develop a prototype for possible use in combat vehicles.
+The other co-winner: a group of scientists at Los Alamos National Laboratory, led by physicist Gregory Swift. The team used highly compressed sound waves to convert natural gas into a liquid. Unlike traditional methods, which can produce millions of gallons a day, this thermoacoustic process produces smaller quantities at a low cost and greater reliability. Los Alamos has licensed the technology to Swift LNG Inc. of Houston.
+ENVIRONMENT
+Abe Sher, chairman and chief executive, launched Silver winner Aqua Sciences in 2004, using technology from a team of Israeli scientists. The water-from-air system "looks very useful for disaster relief and may be much more practical than transporting water into remote, harsh environments," says Robert Drost, an engineer and director at Sun Microsystems Labs.
+MATERIALS AND OTHER BASE TECHNOLOGIES
+Bill Ward, chief technology officer of Alis Corp., and Nicholas Economou, president and CEO, took top honors for a device that promises a significant improvement over electron microscopes. The technology uses helium ions instead of electrons to illuminate atomic-level structures, producing sharper, higher-contrast images and making it possible to display ever-smaller materials. Alis, of Peabody, Mass., sold its first model early last year and has five more in production. The company is owned by Germany's Carl Zeiss SMT AG.
+MEDIA/BROADCASTING
+Bronze winner Joost's Internet television service launched in May. It offers free, advertiser-supported programming from Viacom Inc.'s MTV and VH1, documentary specials from Time Warner Inc.'s CNN and classic shows from Warner Bros. Television, among others. Compared with other video sites, the full-screen service "seems a better user experience, which potentially could increase the actual take-up of this service," says Barry Jaruzelski, vice president and lead marketing officer at Booz Allen Hamilton.
+MEDICAL/BIOTECH
+In the early 1990s, Novartis developed a model of the enzyme that controls the onset of high blood pressure, and designed a molecule to block it. But making commercial quantities looked too expensive, so Novartis licensed development of the drug to Speedel which found a solution. In 2002, Novartis bought back the drug, called Tekturna in the U.S. and Rasilez in Europe. Both developers shared the Gold.
+Novartis says the drug is effective alone or combined with others. It also lowers blood pressure for 24 hours, compared with 12 for other drugs.
+Judges noted that it isn't yet clear that Tekturna will prove more effective than existing treatments. But "I thought the fact that we had a new approach was really in keeping with what the award is about," says Richard Lang, chairman of the general internal medicine department at Ohio's Cleveland Clinic.
+MEDICAL DEVICES
+SeQual Technologies Inc., San Diego, won for portable equipment that provides concentrated oxygen. Usually, patients in long-term oxygen therapy must use bulky units that concentrate oxygen from the air or costly portable ones with limited capacity. SeQual's Eclipse, introduced in June 2006, concentrates oxygen but weighs just 17 pounds and runs on a battery that is easily recharged. The device "is likely to be a very substantial advance for the two million people with chronic lung disease," says Anthony Komaroff, professor of medicine at Harvard Medical School and editor in chief of Harvard Health Publications.
+NETWORK/INTERNET TECHNOLOGIES/BROADBAND
+Tellme Networks Inc., Mountain View, Calif., a unit of Microsoft Corp., stood out with technology that gives cellphone users visual results for directory searches. Users ask for the listings using voice commands, and Tellme's service delivers a visual list of the results. Users can connect directly to the listing, get driving directions or a map, or forward the listing via a text message.
+NETWORK SECURITY
+PGP Corp., Palo Alto, Calif., won for its PGP Encryption Platform, a system for managing different computer data-encryption programs. For instance, a company that uses encryption to protect the data on employees' laptops could use the system to easily add email or file encryption without the hassles of setting up separate controls. The platform, introduced in 2005, also lets computer departments manage encryption products from other vendors.
+"Encryption suffers from being hard to implement, and that's probably the No. 1 reason it's not more broadly deployed," says Asheem Chandna, a partner with venture-capital firm Greylock Partners, of San Mateo, Calif. "These guys have made it really easy to implement."
+SEMICONDUCTORS
+Bioident Technologies Inc., of Menlo Park, Calif., shared the win for its PhotonicLab, which makes it possible to test liquid samples such as contaminated water on the spot without sending them to a lab for analysis. Bioident employs a process developed by its parent, Austria's Nanoident Technologies AG, for using an inkjet printer to print microprocessor circuits on any substance; the technology enables it to apply photosensitive semiconductors to existing test equipment to make a "lab on a chip."
+Kris Kwiatkowski, a researcher at Los Alamos National Laboratory, also won for a superfast chip that lets cameras capture extremely short-lived phenomena, such as an explosion's shock wave. The device, developed with researchers from a Teledyne Technologies Inc. unit, combines a sensitive chip for capturing light radiation and a separate one for storing and processing the light signal.
+SOFTWARE
+Electronic Learning Products' founder, Carlo Franzblau, originally set out to sell software that helped people learn to sing. As the program was being tested, one of the trial users a middle-school student discovered that her reading was improving. Research found that students using the software could improve their reading by more than a full grade level on average. The Honorable Mention product was released in September 2006.
+TRANSPORT
+Siemens VDO Automotive AG, a unit of Siemens AG, won for its electronic wedge brake. The system sends electronic signals to the brakes on each wheel and uses the wheels' own kinetic energy to help bring them to a stop, reducing the amount of force drivers must apply. The system promises faster braking times and shorter braking distances. Developed in 2005, it is expected to be in production by the end of the decade.
+Mr. Totty is a news editor for The Journal Report in San Francisco.
+ Load-Date: September 25, 2007
+
+ 
+
+End of Document

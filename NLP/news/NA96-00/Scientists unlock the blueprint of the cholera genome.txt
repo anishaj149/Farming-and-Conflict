@@ -1,0 +1,46 @@
+
+
+Scientists unlock the blueprint of the cholera genome
+The Associated Press
+August 2, 2000, Wednesday, BC cycle
+
+ Copyright 2000 Associated Press  All Rights Reserved
+Section: Washington Dateline
+Length: 805 words
+Byline: By RANDOLPH E. SCHMID, Associated Press Writer
+Dateline: WASHINGTON
+Body
+
+
+
+
+Scientists have developed the genetic blueprint of cholera, a step that may point the way to better vaccines or treatments for the ancient terror that has claimed millions of lives around the world and remains a hazard in many nations.
+Once widely feared, epidemics of the diarrhea-causing disease occurred regularly in the United States and other western nations before modern water- and sewage-treatment processes were developed in the late 19th century.
+It remains "a living terror for people in the developing world, not a historical one," said Richard Gallagher, biological sciences editor of the journal Nature, which is publishing the findings Thursday.
+Cholera is one of nature's most efficient killers, sometimes claiming lives within hours of onset. The bacterium attacks the intestine of humans and can cause death by severe dehydration resulting from diarrhea.
+Most lives can be saved with modern rehydration therapy, but that often is not widely available in developing nations.
+A half-million cases have been reported to the World Health Organization in the last two years with 20,000 deaths, said Claire Fraser of The Institute for Genomic Research in Rockville, Md., whose researchers analyzed the genetic structure of the bacteria. World Health Organization figures show just under 37,000 cases in the first half of this year with 2,033 deaths, all but two in Africa.
+"Knowing the (cholera) genome gives us a tremendous opportunity to better understand its role in the environment and … also its effect on humans," Rita Colwell, director of the National Science Foundation, said at a news conference to discuss the report.
+The development is especially important in the potential production of vaccines, added John J. Mekalanos of Harvard Medical School. He said it provides an "open book" of the bacteria's structure, which will allow researchers to find and delete dangerous genes before using the bacteria to make vaccine.
+"This will be the starting point for most future studies," said microbiologist Matthew Waldor of Tufts Medical School in Boston. He co-wrote an accompanying commentary on the research, which also was being published in Nature.
+Fraser, director of the group that developed the genome blueprint, cautioned that, despite the new knowledge of the genetic makeup, the idea of eradicating cholera "is probably not practical."
+The research team found the germ, known as "Vibrio cholerae," has two round chromosomes with 3,885 genes. They are formed from about 4 million chemical building blocks known as base pairs, about 3 million in the larger chromosome and about 1 million in the smaller.
+The project cost $793,712, Fraser said, or about 20 cents per base pair.
+The researchers identified the genes by chemically breaking up strands of the cholera DNA. They analyzed the fragments separately and later determined how to reassemble them in order. Similar techniques have been used to identify the genes of other disease microbes and of humans.
+Cholera has afflicted humans for more than 2,000 years. The symptoms were mentioned as long ago as Hippocrates and even earlier in Sanskrit writings.
+It is largely eradicated from the United States and other industrial nations. The few cases occasionally reported come in with travelers from infected areas.
+Most cases, Colwell said, result from people eating undercooked shellfish or raw shellfish "bootlegged" from beds where fishing is banned because of pollution.
+The bacteria is common in fecal contaminated food and water and can thrive in brackish coastal waters and bays, Colwell said, including the Bay of Bengal and even Chesapeake Bay.
+Epidemics still plague parts of Asia, Africa and Latin America, where water supplies often are contaminated.
+Colwell said that because the bacteria attach to a tiny plankton, it can be removed by filtering water. She said experiments in Bangladesh have had some success filtering water through layers of cloth used for women's saris.
+Cholera epidemics devastated parts of the United States during the Civil War era and later in the 19th century. The disease led to development in England of early epidemiological research.
+In a case famous in medical history, a cholera epidemic was ravaging London in 1849, and Dr. John Snow prepared a map marking the homes of people struck by the disease. Noticing that the cases centered on a public water pump, Snow persuaded authorities to remove the pump handle, which forced residents to go elsewhere for drinking water. As soon as water from the well was no longer being used, new cases of cholera declined dramatically.
+On the Net: Institute for Genomic Research: www.tigr.org 
+World Health Organization statistics: http://www.who.int/emc/diseases/cholera/ 
+Cholera background: http://www.bact.wisc.edu/Bact330/lecturecholera 
+http://www.cdc.gov/ncidod/dbmd/diseaseinfo/cholera-g.htm 
+ Load-Date: August 3, 2000
+
+ 
+
+End of Document

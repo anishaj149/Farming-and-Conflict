@@ -1,0 +1,60 @@
+
+
+Harnessing sea power: the energy wave of the future?
+June 13, 2001, Wednesday, BC cycle
+
+ Copyright 2001 Associated Press  All Rights Reserved  The Associated Press
+Section: Domestic News; Business News
+Length: 932 words
+Byline: By MICHELLE LOCKE, Associated Press Writer
+Dateline: BERKELEY, Calif.
+Body
+
+
+
+
+Racing across the blue Pacific like wild, white-maned horses, the curling breakers crashing down on California's beaches are an iconic image of the Golden State.
+Misha Cornes goes to the beach and sees something more: a new energy source for power-strapped California.
+Cornes and his colleagues at the Berkeley based start-up Sea Power & Associates think they've figured out how to harness the energy in waves.
+Their Wave Rider technology is a series of lightweight concrete floats that would sit one to two miles off shore. Floats are connected to a hydraulic pump that extends nearly 60 feet down to the ocean floor. The up-and-down motion of the waves creates pressure that drives the hydraulic pump, which then drives turbines to generate electric power.
+The design "seemed to be well thought out and I didn't see any reason why it wouldn't work," says David Navarro of the California Energy Commission. "There's a lot out there. it's just waiting to happen."
+The notion of wiring the waves has been around for a few decades. The problem has been that few of the ideas have been tested - although some companies outside the United States have produced power from the ocean - and the cost has been considered prohibitively high compared to other clean, renewable forms of energy such as wind and sun.
+"It's estimated two-tenths of a percent of the energy contained in the ocean could power the whole world. It's this energy source that's totally untapped," says Cornes.
+While Japan and Northern Europe have forged ahead with government-funded sea power schemes, research dollars in the United States dried up after an initial surge in the 1970s.
+Before deregulation, California's flawed attempt to introduce competition to the state's electricity market, there was some funding of wave power projects with some proposals to try projects along the Northern California coast.
+But after lawmakers approved deregulation in 1996 "there was no money for research. They all stopped. They all went away," said Michael Champ, an early advocate of ocean power, and now president of the Falls Church, Va.-based Advanced Technology Research Project, an environmental and management consulting firm.
+Now, with California battling an energy crisis and a revival of interest in finding sources of energy that don't come from decomposed dinosaurs, sea power advocates are hoping their ship has come in.
+"Where we are is where wind was five years ago," says Mirko Previsic, chief executive and founder of Seapower & Associates, who has tested his ideas in wave tanks but needs to raise $3.4 million to build an oceangoing prototype.
+In good locations, wave energy density can produce an average 65 megawatts per mile of coastline, enough to power nearly 50,000 homes, Navarro said.
+The ocean can produce two types of energy: thermal from the sun's heat and mechanical from tides and waves.
+There are three basic ways of converting the kinetic energy that drives a wave into power:
+-Tapered channel systems push the waves into reservoirs and then make the water flow through a turbine, similar to a hydroelectric dam.
+-Float systems use the rise and fall of the waves to drive hydraulic pumps.
+-Oscillating water column systems are fixed generating devices in which waves enter the column and force air up past a turbine. As the wave retreats, the air pressure drops, causing the turbine to turn.
+Last November, Scottish-based Wavegen launched the world's first commercial wave power station, which uses the oscillating water column system, on the island of Islay off the west coast of Scotland.
+Wavegen has signed long-term contracts with two Scottish power companies and is feeding power into the main grid. The plant is capable of producing 500 kilowatts with the right waves, but is limited to 150 kilowatts because of constraints in the grid, said David Langston, Wavegen's business development manager.
+The plant, which is not expected to show a profit for some time, can produce power at about 8 cents a kilowatt hour. Langston compares that to the British wind industry which is now about 3 cents.
+Islay, pronounced eye-la, is home to about 3,400 people and is best known for its single-malt whiskies. Langston said the plant has sparked some discussion of powering the island solely with renewable energy.
+There are concerns, though, about getting permits to place the devices. And offshore systems would need to be marked for navigational purposes.
+Sea Power & Associates' target market is remote coastal communities and small islands which now have to rely on diesel generators, which are expensive and dirty.
+Ocean power would produce no greenhouse gases and Cornes and Previsic believe their system could be cost-competitive with diesel, which they said now costs 18 cents to 25 cents a kilowatt hour.
+Sea Power & Associates got a boost this spring when their business plan won the $10,000 grand prize at the Social Venture Competition held at the University of California, Berkeley's Haas School of Business.
+The next order of business is trying to squeeze money out of an increasingly skittish venture capital pool.
+"They're still working … which is a plus," says Navarro. "I have to give a lot of credit to Mirko for believing in what they've done and pushing it forward."
+On the Net:
+Sea Power & Associates, http://www.seapower.cc/ 
+Wavegen, http://www.wavegen.co.uk/ 
+Haas competition, http://groups.haas.berkeley.edu/socialventure/home.html 
+Calif. Energy Commission, http://www.energy.ca.gov/development/oceanenergy/index.html 
+Australian ocean energy site, http://renewable.greenhouse.gov.au/technologies/ocean/wave.html 
+ Graphic
+
+
+
+ 
+AP Photos NY1345-1346 of June 13, AP Graphic SEA POWER
+ Load-Date: June 18, 2001
+
+ 
+
+End of Document

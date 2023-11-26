@@ -1,0 +1,56 @@
+
+
+College professor and his research at the root of the latest corporate scandal
+The Associated Press
+September 20, 2006 Wednesday 6:09 PM GMT
+
+ Copyright 2006 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 1134 words
+Byline: By TODD DVORAK, Associated Press Writer
+Dateline: IOWA CITY Iowa
+Body
+
+
+
+
+A framed single share of Enron Corp. stock hangs on the wall of University of Iowa finance professor Erik Lie's office.
+The stock, purchased in 2002 when Enron's value hit rock bottom, features the inscription "Respect. Integrity. Communication. Excellence." That served as the disgraced energy company's corporate slogan.
+"It's a good reminder for people who forget," said Lie.
+In executive suites across the country, there are plenty of CEOs, financial officers and board members who might like to forget Lie.
+From his second floor office at Iowa's Tippie College of Business, Lie spent months analyzing data to demonstrate how companies were illegally and retroactively timing stock option grants to fatten bonuses paid to top executives.
+His work is widely credited with exposing the latest scandal to rattle corporate America.
+"He's uncovered a scandal that has just mushroomed," said Adam C. Pritchard, a former attorney at the Securities and Exchange Commission and now a law professor at the University of Michigan. "He recognized something there that needed looking into. I don't think you can understate what's he's done.
+"There would be no issue right now if he had not done this research."
+The SEC's chief accountant issued a letter Tuesday giving companies extra guidance on handling and reporting stock option grants, designed to differentiate between companies that granted them in good faith and those that artificially inflated their value.
+So far, the SEC, along with the Department of Justice, has launched 82 investigations into companies nationwide over the possible manipulation and illegal reporting of stock option grants.
+Investigations have already led to criminal charges against executives from two companies, and many more are conducting their own internal inquiries.
+Regulators and academics who study corporate finance and governance say the backdating inquiry could be the most widespread and significant corporate scandal in 30 years.
+Lie's work has made him a focus of media attention for months, but he's maintained a modest, reform-minded view.
+"When we conduct research, we all want to make an impact," said Lie, who grew up in Norway and taught at the College of William & Mary in Virginia before moving to Iowa City with his wife and two children in 2004. "I'm very happy to see a clear and immediate effect of the research on the corporate world."
+Lie's findings are spelled out in two papers, one published in 2005 and the other made public on Web sites last November.
+The first piggybacked on research by David Yermack, a finance professor at New York University who in 1997 studied the relationship between stock prices and option grants. Yermack concluded that executives were either bending the rules or keen at predicting their company's stock performance.
+Lie took it one step further.
+After reviewing proxy statement data filed with the SEC from every company on the S&P 1500 index, Lie discovered a pattern in which stocks fell slightly just before options were granted and rose shortly after the grant date, an increase attributable to shifts in the entire market.
+Those price patterns were attributed in the past to executives predicting how their companies would do; but if that were true, it would mean they could predict what the whole market would do, Lie said.
+"To me, that was a clue that people weren't merely predicting," he said. "There's certain things we can't predict."
+Backdating options can be legal if approved by a company's board, disclosed to shareholders and properly accounted for in tax and regulatory filings. But Lie said too many public companies, more than 2,000 overall that gave stock options to executives, ignored those rules or failed to deduct the added compensation from their bottom line.
+Options allow employees to buy shares of their company's stock in the future at a set price, typically the price on the day the option is issued. Backdating grants options retroactively, and as Lie found, coinciding with a slump in the stock's value. Options dated to a low price then redeemed during a surge helped hundreds of executives reap multimillion dollar paydays.
+Randall Heron, a professor at the Kelley School of Business at Indiana University, believes Lie never intended to unearth corporate wrongdoing when he began investigating backdating.
+"His original idea ... was that there was this puzzle out there and a lot of unanswered questions about what was happening," said Heron, who shared an office with Lie during their doctoral days at Purdue University.
+"But after the first study, I'm sure his moral compass kicked in and he said 'OK, these guys are doing something wrong.' And I'm sure that increased his desire to get to the bottom of this," Heron said.
+But the first study's data lacked the key evidence necessary to make an airtight case that rules were being broken.
+So Lie, with Heron's help, did a second study, this time including in their analysis insider transaction documents filed with the SEC.
+They found the pattern of dating options between a fall and subsequent rise in stock value declined sharply in August 2002 after Congress passed a new corporate accounting law. The Sarbanes-Oxley Act took aim at a variety of questionable corporate practices, and Lie attributes the falloff to a provision that closed the window for reporting option grants to the SEC from a period of months to two days.
+Despite its far-reaching scope, experts agree the backdating scandal has yet to reach the degree of public outrage generated by the misdeeds of executives at Enron, Worldcom Inc., or Tyco International Ltd.
+"The Enron stuff is very sexy, but that type of fraud was not pervasive," said Andrew Metrick, a professor of finance and corporate governance at the Wharton School of Business at the University of Pennsylvania. "This is widespread, pervasive. I think when this is all said and done, the total amount of dollars that we'll find have been stolen from the corporate till is larger here than any other case we've seen."
+It's hard to tell how many millions of dollars are involved, Lie said, because it depends on how far down in the organizations backdating occurred and only executives and directors are required to report option grants.
+For Lie, life as America's newest corporate sleuth has meant a flurry of interviews with reporters from around the globe and the knowledge that investigations could lead to corporate reform and greater vigilance among shareholders.
+"To be able to sit back and say my research did this is nice ... but I've decided it's not going to change my life," Lie said. "It's more important that we deal with these issues, move forward and make the financial markets more transparent."
+On the Net: Tippie College of Business: http://www.biz.uiowa.edu/
+Securities and Exchange Commission: http://www.sec.gov/
+ Load-Date: September 21, 2006
+
+ 
+
+End of Document

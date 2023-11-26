@@ -1,0 +1,45 @@
+
+
+The fixture known as SooFalls Livestock in the format provided by the U.S.Department of Agriculture. The file you see here includes
+The Associated Press
+August 2, 2004, Monday, BC cycle
+
+ Copyright 2004 Associated Press  All Rights Reserved
+Section: Business News
+Length: 123 words
+Dateline: SIOUX FALLS, S.D. (AP)
+Body
+
+
+
+
+Monday cattle: none.
+Hog estimate: 500.
+Barrows and gilts opened .50 lower. 49-51 percent lean 220-270 lbs 57.00.
+Sows: Not yet established.
+U.S. 1-3: 300-450 lbs not established; 450-700 lbs not established.
+ 
+
+Sioux  Falls  Hogs  -  Opening
+
+Estimate:    500
+
+      Barrows  and  gilts  opened  .50  lower.
+
+              Percent  Lean          Weight              Price
+
+                      49-51            220-270  lbs        57.00
+
+      Sows:    Not  yet  established.
+
+                        US  1-3        300-450  lbs        xx
+                                            450-700  lbs        xx
+
+Source:    USDA-South  Dakota  Ag  Market  News,  Sioux  Falls,  SD
+                  605-338-4061
+                  www.ams.usda.gov/mnreports/SF-LS210.txt 
+ Load-Date: August 3, 2004
+
+ 
+
+End of Document

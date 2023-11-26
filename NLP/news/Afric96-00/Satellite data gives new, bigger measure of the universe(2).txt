@@ -1,0 +1,40 @@
+
+
+Satellite data gives new, bigger measure of the universe
+February 15, 1997, Saturday, PM cycle
+
+ Copyright 1997 Associated Press  All Rights Reserved  Associated Press
+Section: International News
+Length: 579 words
+Byline: By ROBERT BARR, Associated Press Writer
+Dateline: LONDON
+Body
+
+
+
+
+Turns out the universe may be bigger than we thought.
+A European satellite has measured the position of 120,000 stars, and the results have led scientists to correct one of their basic measuring sticks of the universe.
+The results are based on the first analyses of data from the European Space Agency's Hipparcos satellite, launched in 1989. They were presented Friday at a meeting of the Royal Astronomical Society in London.
+The Hipparcos measurements of pulsing stars called "cepheids" indicated that they are about 10 percent farther away that previously estimated.
+That means the universe is bigger and perhaps a billion years older than previously thought. The Hipparcos conclusions may help resolve a paradox that has emerged from other ways of measuring: that the universe is younger than the oldest stars.
+"Until Hipparcos, the cosmic distance scale rested on well-informed guesses. The distances we now have, for stars of many kinds, provide for the first time a firm foundation from which to gauge the distances of galaxies," said Michael Perryman, project scientist for the European Space Agency.
+Cepheids are an important benchmark for stellar measurements because their brightness is directly related to their pulse - the longer the pulse, the brighter the star.
+By comparing the brightness of two cepheids with the same pulse, astronomers can estimate how far apart they are. One of the best-known and closest cepheids is Polaris, the pole star.
+Measurements taken by Hipparcos indicated that cepheids were about 10 percent further away than had been thought. Or to put it another way, they were a bit brighter than astronomers had guessed.
+The Hipparcos measurements indicate the oldest stars are about 11 billion years old, while the universe is somewhere between 10 billion and 13 billion years old.
+Other estimates have the stars up to 14 billion years old and the universe as young as 9 billion.
+"I hope we've cured a nonsensical contradiction that was a headache for cosmologists," said Michael Feast of the University of Cape Town in South Africa. "We judge the universe to be a little bigger and therefore a little older, by about a billion years."
+Robert Kirshner, professor of astronomy at Harvard University, said the key will be nailing down where in the 10 billion to 13 billion range the universe's age falls.
+"If their number is 10 to 13 billion, it isn't settled," Kirshner, who had not seen the report, said in a telephone interview.
+"We are finally getting to the point where we don't disagree on the distance scale by a factor of two, but by 10 percent. That's good. It means science is growing up."
+The Hipparcos satellite was launched in 1989 but failed to reach its correct orbit. After reprogramming from the ground, the satellite - named for an ancient Greek astronomer - operated until 1993. It has taken since then to analyze the data.
+Hipparcos made precise measurements of the annual fluctuation of the position of 120,000 stars. In addition, Hipparcos logged 1 million more stars in a second, less-accurate series.
+Measuring from a satellite avoids the distortions of looking through the Earth's atmosphere and the effects of the Earth's gravitation.
+Measurement is "one of the most fundamental parameters" of astronomy "and one of the weakest before the Hipparcos mission," said Floor van Leeuwen of the Royal Greenwich Observatory.
+The European Space Agency said the full data will be published in June and will be available then to all astronomers.
+ Load-Date: February 15, 1997
+
+ 
+
+End of Document

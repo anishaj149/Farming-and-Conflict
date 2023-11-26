@@ -1,0 +1,73 @@
+
+
+Here they come to save the day: The business of mice, mighty and otherwise - Correction Appended
+The Associated Press
+March 4, 2006 Saturday 5:19 PM GMT
+
+  Correction Appended
+ Copyright 2006 Associated Press All Rights Reserved
+Section: DOMESTIC NEWS
+Length: 1974 words
+Byline: By MATT CRENSON, AP National Writer
+Dateline: BAR HARBOR Maine
+Body
+
+
+
+
+When it comes to the price of mice, you pay more for defects.
+A mouse with arthritis runs close to $200; two pairs of epileptic mice can cost 10 times that. You want three blind mice? That'll run you about $250. And for your own custom mouse, with the genetic modification of your choosing, expect to pay as much as $100,000.
+Always a mainstay of scientific research, mice have become a critical tool in the quest for new drugs and medical treatments.
+It turns out that a mouse's genes are so similar to a person's that with proper manipulation either by man or nature they can produce an animal with an ailment akin to virtually any human medical condition. Mice with Alzheimer's disease, obesity, diabetes, cancer and countless other ailments are being used to study both the illnesses themselves and potential treatments.
+As many as 25 million mice are now used in experiments each year. Where do they come from?
+From the mouse industry, of course.
+There are many vendors: The Jackson Laboratory, a nonprofit supplier in Bar Harbor, Maine, ships more than 2 million a year. Commercial breeder Charles River Laboratories of Wilmington, Mass., makes about $500 million annually selling and caring for lab animals, most of them mice.
+Yet the mouse business is a challenging one. What was once a relatively simple business of breeding and shipping animals has become an extremely challenging enterprise that requires cutting-edge technology and a mastery of difficult logistics.
+"It's not just putting two animals together any more," said Terry Fisher, general manager for business development and surgical services at Charles River Laboratories, a Wilmington, Mass., which offers laboratory animals and services to pharmaceutical companies and researchers.
+At the Jackson Laboratory, Rob Taft maintains a collection of 2,850 different mouse strains but he rarely sets eyes on most of them.
+Two-thirds of Taft's collection consists of embryos, frozen at 320 degrees below zero in tiny glass tubes about the size of a cocktail straw. The half-dozen freezers that hold the embryos are a biological Library of Congress, a genetic repository containing virtually every publicly available strain of lab mouse ever produced.
+All of them are for sale.
+Any qualified researcher can call the Jackson Lab, where Taft is the associate director of reproductive sciences, and order 100 diabetic mice, 50 anemic mice or a dozen mice with cystic fibrosis. Taft simply pulls a straw out of the collection, thaws it, and implants the embryos in a female mouse. Three weeks later, he has a made-to-order litter of mouse pups.
+Mice gained their new significance not long after the completion of the human genome project in 2001. Scientists rushed to finish sequencing the mouse's DNA sequence the following year, and when they put the two genetic codes side-by-side they found something they'd always suspected the genes of mice and humans are virtually identical. The obvious differences between us and them lie not in the genes themselves but in where, when and how those genes are activated.
+"It means that the anatomy and physiology of a mouse is pretty darn similar to what you see in a human," said Roy Woychik, director of the Jackson Laboratory.
+Essentially, mice and humans are made from different combinations of the same parts.
+Companies now have to know the genetic makeup of every mouse that goes out the door. They have to guarantee that their mice are free of viruses, bacteria, parasites and other pathogens that could affect the outcome of an experiment. And they have to be able to store hundreds or thousands of different strains, either "on the hoof" or frozen as sperm or embryos.
+Lab mice live the ultimate hothouse existence. They are kept in special rooms with filtered ventilation systems and air locks, or in cages known as "isolators" that keep them completely free of contamination from the outside world. Any technician who comes in direct contact with mice has to go through a thorough decontamination process beforehand that involves a shower and a full change of clothes. All the food, water and bedding for mice is sterilized by heating, irradiation or both.
+Lab mice are smaller and tamer than wild mice, and much more sensitive to temperature and other environmental changes. The animals are so delicate that distributors ship them in special climate-controlled trucks and go to great lengths to avoid sending them by air freight. One company, Taconic Farms of Germantown, N.Y., serves West Coast customers with a nonstop truck that leaves New York every Thursday evening and arrives in California the following Monday morning.
+And because scientists have become more attuned to the health of their mice, insisting that they be free of anything that could affect the result of an experiment or even worse, wipe out an entire colony of animals suppliers constantly sample their populations for the slightest sign of infection.
+"We screen for everything under the sun," said Charlie Chungu, product manager of the model organism division at Charles River Laboratories. He oversees an army of technicians who culture tissue samples for bacteria, test blood serum for signs of viral infection and dissect mice to make sure their internal organs are in good condition.
+When scientists began working with mice a century ago they didn't know anything about DNA, and had only the foggiest notion of genes. They had just rediscovered breeding experiments that had been performed on pea plants 40 years earlier by the Austrian monk Gregor Mendel. Mendel had worked out rules of inheritance that worked in plants; did they apply to animals as well?
+Mice were the obvious choice for breeding experiments. Small, docile and more than willing to reproduce, they were also readily available from the collections of Victorian mouse fanciers who bred the animals to have interesting coat colors and patterns. Many of today's most popular lab mouse strains are direct descendants of those original "fancy mice."
+Over decades, researchers created inbred lines of lab mice by repeatedly mating siblings to one another until every member of the strain was virtually the same genetically. That standardization made it possible for a researcher in Japan to replicate the experiment of a colleague in California without having to worry about genetic variation affecting the result.
+It also gave each strain a distinct character that made it preferable for certain experiments. The strain BALB/c, for example, is especially useful for immunological studies. Another strain, C3H, is known for its susceptibility to breast tumors.
+Mouse breeding was much simpler before the genetic revolution. For much of the 20th century new strains of lab mice were created either by selective breeding or by chance. If a sharp-eyed lab technician or graduate student spotted an unusual animal that turned out to have a novel mutation, a new line would be produced in order to study that particular gene.
+Now researchers and increasingly biotechnology companies can create their own mutations, inserting or deleting genes at will.
+Companies such as Deltagen of San Carlos, Calif., will create a "knockout" mouse that lacks a particular gene. Artemis Pharmaceuticals of Cologne, Germany, offers to insert human genes into a mouse's genetic code. PolyGene Transgenetics, a Swiss company, will insert genes whose output can be turned up and down as if they were on a biological dimmer switch.
+And the award for sheer weirdness goes to Xenogen, an Alameda, Calif., outfit that can hitch the gene of interest to one that codes for the protein that makes fireflies glow. The result: Whenever and wherever the gene being studied switches on inside the mouse, it glows.
+Depending on the specific genetic manipulation, the cost to create a custom mouse is usually in the tens of thousands of dollars. Once the line has been established, individual animals can run into the hundreds.
+"Not that much to pay if you want to see how a disease affects a mammal or how a drug is going to work," said Lee Silver, a Princeton University biologist who has worked with mice since 1978.
+The problem is, the new mouse strains are so specialized that there are only a handful of buyers for any given custom mouse. Of the thousands of strains it has in stock, the Jackson Laboratory makes money on a few dozen and breaks even on a few hundred more. The common, high-demand strains and federal grants subsidize the storage and maintenance of the more exotic lines, and also help support the research of more than 50 scientists.
+"If you're selling a million mice of a particular strain, it's not too hard to make a marketplace," said Charles E. Hewett, chief operating officer of the Jackson Lab. "A mouse that we're only going to sell a dozen or so every year, that's much harder."
+But biologists agree that those mice are vital to the advancement of biology, which is why the federal government's National Institutes of Health has invested millions of dollars in creating and maintaining lines of genetically modified mice.
+This year the NIH spent $10 million to purchase 250 strains of knockout mice, along with detailed information about their physiology, from two biotechnology companies, Deltagen and Lexicon Genetics of The Woodlands, Texas. The acquisition is just an "hors d'oeuvre" for a much larger international effort to create a knockout strain for every one of the mouse's 20,000 to 25,000 genes, said Chris Austin, director of the National Institute of Health's Chemical Genomics Center.
+The Knockout Mouse Project would record information about the characteristics of each strain in an enormous public database that would allow researchers to link genes with their functions.
+"The number of different things that you can do with these mice is huge," Austin said. "One can say, 'OK, show me all the mice that are anemic,' ... and you immediately come up with a list of genes, many of which you never would have thought of."
+Some researchers believe studying knockout mice will even lead to the development of new drugs, perhaps dozens of them. One of the first steps in drug development is the identification of what biologists call a target a biological molecule that is involved in the disease process and can be blocked or otherwise affected by a small, relatively harmless compound.
+Good targets are hard to come by. But knockout mice are virtual target factories, because they are missing a single gene, and thus a single biological molecule. For example, if researchers found a knockout mouse that stayed skinny no matter how much it ate, they would immediately have a promising target for an obesity drug.
+"You can manipulate the genes ... and use the mouse as a translator of mammalian physiology," said Brian Zambrowicz, executive vice president of research at Lexicon Genetics.
+Lexicon has knocked out 3,000 mouse genes already, and has designs on 2,000 more. With each knockout, the company performs a detailed battery of tests to determine how the function of the deleted gene corresponds to human physiology in six areas: opthalmology, cardiology, immunology, cancer, metabolism and neurology.
+If Lexicon can find just a few dozen new targets among the 5,000 genes it is knocking out, it could easily revolutionize the pharmaceutical industry. Zambrowicz claims that the company has already identified 70 new targets, which is pretty impressive when you consider that the 100 top-selling prescription drugs on the market exploit no more than a few dozen.
+Still, it remains to be seen whether a leap can be made from mice with knocked-out genes to therapies for humans. In the past, discoveries that looked promising in rodents have often failed in human patients.
+"These mice are not going to tell us everything, and sometimes they tell us nothing. But as a starting point," Austin said, "mice play a central role."
+Correction
+
+
+
+
+In a March 1 story about breeding laboratory mice for scientific research, The Associated Press erroneously reported the first name of the director of the Jackson Laboratory in Bar Harbor, Maine. His name is Rick Woychik, not Roy.
+Correction-Date: March 6, 2006
+ Load-Date: March 5, 2006
+
+ 
+
+End of Document

@@ -1,0 +1,65 @@
+
+
+Adapting technology to social benefit - and being self-sustaining; This is the latest in an occasional series spotlighting Internet personalities.
+The Associated Press
+March 7, 2004, Sunday, BC cycle
+
+ Copyright 2004 Associated Press  All Rights Reserved
+Section: Business News
+Length: 1294 words
+Byline: By BRIAN BERGSTEIN, AP Technology Writer
+Dateline: NEW YORK
+Body
+
+
+
+
+Before age 30, Paul Meyer had trudged through refugee camps in Africa to reconnect families, wrestled with a finicky generator to launch Internet service in postwar Kosovo and written speeches for President Clinton. He managed to squeeze in Yale Law School, too.
+Now 33, Meyer has shifted his peripatetic existence into a steady gig - head of Voxiva Inc., a company he founded in 2001 to help developing countries monitor disease outbreaks and other health information.
+The fast-talking Meyer comes across as a no-nonsense, on-the-move CEO. But he and Voxiva are guided by a refreshingly pragmatic mantra shaped in his earlier stints - the latest technology can't solve everything.
+Voxiva's databases collect information from doctors in remote villages and map it out so health officials can spot potential outbreaks quickly. In traditional paper-based bureaucracies, illnesses can ravage an entire region before the mail brings the national health ministry word of even one death.
+But how to connect the new databases to places where computers and e-mail - sometimes even electricity - are years away? Meyer's practical inspiration was to create a system that doesn't care whether data comes over the Internet or from a phone.
+In Voxiva's system, Web-less doctors and nurses send their findings by dialing a toll-free number and punching pre-arranged codes into an automated voice menu. They can leave a voice mail with details about patients' conditions, or listen to a message with up-to-date medical advice.
+"You don't even really have to be literate to use the system," Meyer says. "If people have a computer, great. If people have nothing more than a pay phone in a village, OK."
+Meyer and Voxiva's co-founder, former U.S. aid official Pamela Johnson - who happens to be Meyer's mother - originally figured Voxiva would roam the world's troubled zones. To their surprise, Voxiva's initial successes, in Peru, attracted interest in the United States.
+Voxiva has set up a monitoring system for U.S. troops who got the smallpox vaccine, and for schools in San Diego and Washington, D.C. It also runs its service for health officials in Baghdad and the U.S.-funded HIV/AIDS initiative in Rwanda.
+And Voxiva's system can be used for much more than health reporting. Three Peruvian cities use it to track crime.
+Despite Meyer's background - and the fact that Voxiva's initial investors included the Markle Foundation, a tech-focused nonprofit - the company isn't purely altruistic.
+Meyer expects Voxiva to make money on every project, so the company can finance its own expansion rather than go hat in hand to donors. He says the 90-employee company, based in Washington, D.C., will become profitable this year. He doesn't rule out taking the company public someday.
+"This is not a Robin Hood model," he says. "We plan on becoming a really big, profitable company - but obviously a company still focused on making the world this better place."
+To be sure, such high-minded talk sometimes masks traditional ways of doing business. But Meyer has earned the right to speak about making a difference.
+Fresh out of California's Pomona College, Meyer volunteered for Clinton's 1992 campaign and quickly got hired to do advance work. He dashed around the country just ahead of the candidate, lining up bands, stages and other logistics.
+"I learned how not to take 'no' for an answer," he says.
+When Clinton took office, Meyer became a White House researcher, then a speechwriter. In 1995 he left for Yale Law School.
+But he never really wanted to be a lawyer. His thoughts turned to international development, a natural inclination for someone who had spent part of his youth in Egypt and Tunisia while his mother worked for the United States Agency for International Development.
+Meyer joined Endeavor, an organization founded by two fellow Yale Law grads that helps entrepreneurs in emerging markets raise capital. Meyer found it exciting, but "it wasn't pulling my heart strings. It wasn't like saving babies."
+After reading about children separated from their families in war zones because aid groups weren't efficiently sharing information, Meyer huddled with Endeavor's tech guru to create a program that would combine refugee agencies' databases.
+With funding from the International Rescue Committee and the Markle Foundation, Meyer went to Guinea, in West Africa, to put the system to use.
+Internet connectivity was sparse, so Meyer often transferred refugee information simply by passing along disks. That impressed IBM Corp., whose Lotus Notes software was the basis for the project, and Meyer persuaded Big Blue to donate servers and software licenses. However, Meyer says IBM wanted to see its products used in a "sexier war" - the conflict in Kosovo.
+Meyer went to the Balkans and sought to link the Red Cross' Web-based refugee matching system with one maintained by the U.N. But the hot, dusty camps holding 1 million refugees in Albania weren't ideal places to set up computer gear.
+Meyer hired an Albanian engineer to suck data from the U.N. and Red Cross systems, then printed the unified database in a huge telephone book with 120,000 names, organized by people's hometown in Kosovo.
+The low-tech solution had an equally low-tech distribution method: Meyer put the books on food trucks going to camps. He watched as people flipped through them and shouted, "Oh my God, there's my brother! There's my sister!"
+"Paul is able to make people understand that it's not really about technology - it's about the fact that people in poor countries are deprived of so many essentials, and one of those essentials is information," says Karen Lynch, who worked with Meyer at the Markle Foundation and now is a staffer at the Development Gateway Foundation, which aids tech projects overseas.
+"He's very driven, very focused, and he's got the kind of charisma that brings people along with him."
+After the war ended, Meyer went to Kosovo to distribute the phone books, and realized the communications infrastructure had been destroyed. Meanwhile, aid groups and U.N. agencies were taking their technology away with them.
+Again Meyer made things happen. Along with another American, Teresa Crawford, and a local systems administrator, Akan Ismaili, Meyer got a $175,000 loan from the International Rescue Committee and a donated satellite dish from an American company, and spent six weeks building Internet service for Kosovo.
+In the beginning, all the electricity came from one generator. To be sure the network had enough juice, the group turned off nearly everything else in their office, working in the cold by the dim glows from computer monitors and blinking server and modem lights.
+Crawford, now technical consultant for The Advocacy Project, which supports human rights campaigns, recalls that the generator was loud and near where French soldiers slept.
+"So we had to be very careful how long it ran and when it ran," she says. "Otherwise they would disconnect it and take out the whole system."
+At first IPKO - for Internet Project Kosovo - sold Internet access to NATO, U.N. agencies, local government and media, and gave free service to schools and hospitals. In four months, it paid back the $175,000, and began to expand its wireless and fiber-optic connectivity. IPKO remains Kosovo's Internet backbone.
+Meyer was energized by IPKO's success but saw that Internet access alone was no savior. Many new Web surfers in Kosovo used it the way Americans do - for frivolous stuff. What the world really needed, he decided, were more productive uses for Web access. Voxiva was born.
+"There are so many problems to solve, and I think we've come up with a way of solving problems in a comprehensive, new way," he says. "I hope I won't ever have another job."
+---
+On the Net:
+http://www.voxiva.net 
+ Graphic
+
+
+
+ 
+AP Photos WX501-502 of March 4.
+ Load-Date: March 8, 2004
+
+ 
+
+End of Document

@@ -1,0 +1,41 @@
+
+
+U.S. believes the world is better prepared for 2000 computer bug
+The Associated Press
+June 22, 1999, Tuesday, PM cycle
+
+ Copyright 1999 Associated Press  All Rights Reserved
+Section: Business News
+Length: 706 words
+Byline: Associated Press Writer
+Dateline: NEW YORK
+Body
+
+
+
+
+Venezuela is consulting with psychiatrists on how to explain to the public what might happen with the Year 2000 computer bug. The Philippines wants to bring the bug to the dinner table - as a conversation topic. And countries in sub-Saharan Africa are worried about finding enough experts to get rid of the bug.
+Six months after the first global conference on the millennium bug, experts from over 170 countries met today at the United Nations to assess progress in dealing with Year 2000 problems and preparations for coping with possible computer glitches.
+"We are meeting as we did last December to work on the last headache of the 20th century and to ensure that it does not become the first crisis of the 21st century," said Pakistan's U.N. Ambassador Ahmad Kamal, who chairs the U.N. working group dealing with Y2K problems.
+Carlos Braga, director of the World Bank's Y2K program, said it was encouraging that over 100 developing countries had now initiated national programs, compared with less than 10 countries in January 1998.
+"In spite of all our efforts it's impossible to guarantee that there will be no disruptions due to the Y2K problem. With less than 200 days remaining until the century date change, this outlook is unlikely to change significantly," Braga said.
+John Koskinen, head of President Clinton's Council on Year 2000 Conversion, says he's delighted the world is finally focusing on Y2K problems and cooperating in trying to solve them.
+"My sense is there has been a sea change in the preparedness of the world in the last six months," Koskinen told reporters Monday. "Nobody is saying this isn't a problem. So what we now have, I think, is a race to the finish line."
+The Year 2000 problem - also called Y2K and the millennium bug - occurs because some computer programs, especially older ones, may fail when the date changes to 2000. Because they were written to recognize only the last two digits of a year, such programs could read the digits "00" as 1900 instead of 2000.
+"Clearly, I think developing countries are going to have more problems than developed countries, but when the dust settles … it wouldn't surprise me to find that we have more failures in developed countries because we have far more systems," Kostikon said.
+U.S. companies and the government are probably spending $ 80 billion to $ 100 billion to cope with the millennium bug, he said.
+At Monday's press conference, Y2K coordinators from Europe, Asia, the Americas and Australia provided a glimpse of some of the problems and challenges they face.
+Mario Tagarinski said the 29 countries in East and Central Europe and Central Asia need independent assessments of their Y2K problems - and help to fix them. One country, Yugoslavia, hasn't even been heard from on the millennium bug issue, he said.
+Asked whether media reports that there would be a variety of failures and meltdowns in the region were fair, Tagarinski replied to laughter: "Yeah, maybe."
+At the other end of the spectrum, Venezuela has invested $ 200 million to ensure oil is delivered on time and the country's Y2K oil expert, Ivan Crespo, said all critical components in the oil industry will be fixed by August.
+But Venezuela's national coordinator, Hugo Castellanos, the government doesn't know how to communicate with the people about the Y2K problem.
+"We don't know how to explain to the large population now what is going to happen, because we don't know what's going to happen," he said. "We are talking to psychologists, psychiatrists in order to know how to reach the people."
+Amable Aguiluz of The Philippines, the East Asia and Pacific regional coordinator, said the media was crucial in raising awareness of the millennium bug.
+"Our ultimate objective is to bring Y2K to the dinner table of every Filipino," he said.
+But Aguiluz said he was concerned that some groups might take advantage of the computer problem. Some religious groups have already told members they would be willing to take care of their money to avoid Y2K problems, Aguiluz said.
+Baba Mustafa Marong, the sub-Saharan Africa coordinator, said his region not only needs more computer experts but is concerned about small and medium enterprises, "where you don't know the extent of their exposure to the Y2K bug."
+ Load-Date: June 22, 1999
+
+ 
+
+End of Document

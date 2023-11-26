@@ -1,0 +1,50 @@
+
+
+Vietnam Hesitates At On-Ramp To The Information Superhighway
+January 4, 1996, Thursday, PM cycle
+
+ Copyright 1996 Associated Press  All Rights Reserved  The Associated Press
+Section: International News
+Length: 968 words
+Byline: By KATHY WILHELM, Associated Press Writer
+Dateline: HANOI, Vietnam
+Body
+
+
+
+
+When Vietnamese dissident Ha Si Phu was arrested recently, the local media was silent and the international press corps carried only brief reports about the little-known essayist.
+But Internet discussion groups spread the news around the world, along with the calls for political reform that led to his imprisonment and a heated debate on the merits of his case as well as one-party Communist rule.
+"Poverty and isolation over the last 20 years was caused by the Vietnamese Communists," read one message posted from an overseas Vietnamese. Another compared Ha Si Phu to South African President Nelson Mandela, formerly jailed for opposing his nation's regime.
+Small wonder that Vietnam, which is investing heavily in a modern communications system, has suddenly taken its foot off the accelerator while climbing the ramp to the global information superhighway.
+Equipment to give Vietnam its first full, commercial Internet link will be ready this month. But no one can say when service will begin. The government is still drafting regulations on what Internet links will be allowed and by whom.
+"When we start to open our door, we find that fresh air and dust come in," said Pham Dao, director of the state-run Vietnam Datacommunications Co., which is establishing the Internet link. "We would like to keep the fresh air and prevent the dust."
+Different officials have given conflicting accounts of how restricted Internet services will be, creating apprehension among international agencies that are pushing Vietnam to modernize.
+"We want to make sure that services are available and can be used as widely as possible and that an element of competition exists," said Jordan Ryan, deputy resident representative for the United Nations Development Program.
+But when it comes to other forms of information, the government seeks a high degree of control:
+-It selectively monitors telephone calls and fax transmissions.
+-Permission is needed to install a television satellite dish.
+-Anonymous checkers scan the relatively few foreign magazines and newspapers that enter the country, routinely tearing out articles critical of government policy.
+-Someone even recently took the trouble to ink over strategic body parts in a Naomi Campbell photo spread in Paris Match magazine.
+The traditional media are hard to control, however. Customs seizes offensive books coming into the country but they pop up at street stalls in photo-copied knockoff editions. Pornographic videos are widely rented despite frequent police raids on video shops.
+The Internet, with its instantaneous transmission of countless pieces of data, far outstrips even the most diligent contingent of manual inspectors.
+Dao said his company will install a "firewall," a software program that can screen out transmissions from specified senders. In Vietnam's case, these likely would be overseas Vietnamese groups that oppose communism or champion jailed Buddhists and dissidents. Special software can search for certain words to key in on.
+But experts say it would be impossible to keep out all controversial material - the Internet is simply too large.
+Dao has caused the most concern by proposing that Vietnam Datacommunications be designated the nation's sole gateway to the Internet, giving it the authority to license service providers and potentially limit use through high prices.
+Dao said his concern is security, rather than commercial monopoly.
+"Like in your house, you have only one door, so you can protect your home," he explained.
+Dao said he wants to regulate but not shut down the country's half-dozen existing providers of Internet e-mail service.
+The largest, NetNam, began operating a year ago and has more than 400 subscribers, including foreign aid groups, U.N. organizations and a few Vietnamese professionals. It operates with 12 phone lines and a small staff of technicians and student volunteers at the government Institute of Information Technology.
+NetNam and the other existing services do not have full Internet links. NetNam subscribers send e-mail to the institute and it links up four times a day with the Australian National University, which serves as its gateway to the global Internet.
+Many subscribers are fiercely loyal - they like the more than 30 local bulletin boards and electronic libraries that NetNam operates. One bulletin board is solely to exchange Vietnam development news. Another focuses on AIDS. The UNDP uses the NetNam service to announce meetings and projects.
+Nguyen Ngoc Canh of the General Directorate of Posts and Telecommunications, which sets communications policy, said competing domestic services likely will be allowed as long as Vietnam Datacommunications monitors a single outside link.
+For those with money, of course, there will always be another option: a long-distance telephone call to an Internet provider abroad. But phone calls to Hong Kong, for example, cost nearly $ 3 per minute - more than most Vietnamese earn in a day.
+Some wonder if the government isn't exaggerating the Internet's threat. There are only an estimated 60,000 computers in the entire country of 70 million people, few in private homes.
+Only the educated elite - less than 10 percent of the population - are likely to be computer-literate for years to come. If they want to circulate political criticism, they already have access to photo copiers, faxes and telephones, a Vietnamese communications buff pointed out.
+In 1987, Vietnam had only nine international telephone lines. Now it has thousands, and Ha Si Phu used just one to make his views known abroad through long-distance interviews with the Voice of America and a Vietnamese-language California radio station.
+Ultimately, said the Vietnamese expert, speaking anonymously for fear of retribution, "the Vietnamese government has to co-exist with those who have different views."
+ Load-Date: January 4, 1996
+
+ 
+
+End of Document

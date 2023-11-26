@@ -1,0 +1,32 @@
+
+
+Excerpts from the Supreme Court arguments Monday in the forced drugging case:
+The Associated Press
+June 16, 2003, Monday, BC cycle
+
+ Copyright 2003 Associated Press  All Rights Reserved
+Section: Washington Dateline
+Length: 833 words
+Byline: By The Associated Press
+Body
+
+
+
+
+----
+JUSTICE STEPHEN BREYER, writing for the majority: The question presented is whether the Constitution permits the government to administer anti-psychotic drugs involuntarily to a mentally ill criminal defendant - in order to render that defendant competent to stand trial for serious, but nonviolent, crimes. We conclude that the Constitution allows the government to administer those drugs, even against the defendant's will, in limited circumstances, i.e., upon satisfaction of conditions that we shall describe. …
+… The Constitution permits the government involuntarily to administer anti-psychotic drugs to a mentally ill defendant facing serious criminal charges in order to render that defendant competent to stand trial, but only if the treatment is medically appropriate, is substantially unlikely to have side effects that may undermine the fairness of the trial, and, taking account of less intrusive alternatives, is necessary significantly to further important governmental trial-related interests.
+This standard will permit involuntary administration of drugs solely for trial competence purposes in certain instances. But those instances may be rare. That is because the standard says or fairly implies the following:
+First, a court must find that important governmental interests are at stake. The government's interest in bringing to trial an individual accused of a serious crime is important. That is so whether the offense is a serious crime against the person or a serious crime against property. In both instances the government seeks to protect through application of the criminal law the basic human need for security. …
+… We find that the Court of Appeals was wrong to approve forced medication solely to render Sell competent to stand trial. For one thing, the Magistrate's opinion makes clear that he did not find forced medication legally justified on trial competence grounds alone. Rather, the Magistrate concluded that Sell was dangerous, and he wrote that forced medication was "the only way to render the defendant not dangerous and competent to stand trial. ..."
+Moreover, the record of the hearing before the Magistrate shows that the experts themselves focused mainly upon the dangerousness issue. Consequently the experts did not pose important questions - questions, for example, about trial-related side effects and risks - the answers to which could have helped determine whether forced medication was warranted on trial competence grounds alone. …
+The failure to focus upon trial competence could well have mattered. Whether a particular drug will tend to sedate a defendant, interfere with communication with counsel, prevent rapid reaction to trial developments, or diminish the ability to express emotions are matters important in determining the permissibility of medication to restore competence ..., but not necessarily relevant when dangerousness is primarily at issue. We cannot tell whether the side effects of anti-psychotic medication were likely to undermine the fairness of a trial in Sell's case.
+Finally, the lower courts did not consider that Sell has already been confined at the Medical Center for a long period of time, and that his refusal to take anti-psychotic drugs might result in further lengthy confinement. Those factors … moderate - though they do not eliminate - the importance of the governmental interest in prosecution. …
+...For these reasons, we believe that the present orders authorizing forced administration of anti-psychotic drugs cannot stand. The government may pursue its request for forced medication on the grounds discussed in this opinion, including grounds related to the danger Sell poses to himself or others. Since Sell's medical condition may have changed over time, the government should do so on the basis of current circumstances. …
+----
+JUSTICE ANTONIN SCALIA, writing for the dissent: Today's narrow holding will allow criminal defendants in petitioner's position to engage in opportunistic behavior. They can, for example, voluntarily take their medication until halfway through trial, then abruptly refuse and demand an interlocutory appeal from the order that medication continue on a compulsory basis. …
+… But the adverse effects of today's narrow holding are as nothing compared to the adverse effects of the new rule of law that underlies the holding. The Court's opinion announces that appellate jurisdiction is proper because review after conviction and sentence will come only after "Sell will have undergone forced medication - the very harm that he seeks to avoid." … This analysis effects a breathtaking expansion of appellate jurisdiction over interlocutory orders. … any criminal defendant who asserts that a trial court order will, if implemented, cause an immediate violation of his constitutional (or perhaps even statutory?) rights may immediately appeal. He is empowered to hold up the trial for months by claiming that review after final judgment "would come too late" to prevent the violation.
+
+ 
+
+End of Document

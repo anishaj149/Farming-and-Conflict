@@ -1,0 +1,77 @@
+
+
+Wiring the Planet; Part I: The Tracks Have Been Laid - On With The Information Age
+The Associated Press
+May 22, 1993, Saturday, AM cycle
+
+ Copyright 1993 Associated Press  All Rights Reserved
+Section: Domestic News
+Length: 1715 words
+Body
+
+
+
+
+EDITOR'S NOTE - In the 19th century, the railroad hastened the Industrial Revolution, linking distant coasts and spawning cities. Today's ever-widening global computer network may well be as powerful an agent for radical change. The first of a three-part series, "Wiring the Planet," looks at the all-powerful Internet.
+---
+By FRANK BAJAK
+Associated Press Writer
+We surf the walls of fiber optic cables, bounce over oceans by satellite and become digital explorers in Singapore, Prague or Helsinki. All in the space of seconds.
+We don't pack bags. We sit at computer terminals.
+We are circuit riders on the Internet, traffickers in words, images and sounds in a parallel virtual world where people share research and dreams, bridge cultural gaps, even help save lives.
+All without the need to physically meet.
+An estimated 10 million people move in this worldwide web of about 11,000 interconnected networks. The numbers are far from firm because of what the Internet is - decentralized, in constant flux and growing exponentially.
+Born two decades ago with U.S. defense dollars as a Cold War security blanket, the Internet has mutated and evolved from a tool of government researchers to the electronic underpinning of the emerging global village.
+"The Internet is the nascent information structure of the 21st century," says Vinton G. Cerf, one of its creators and president of the year-old Internet Society. "There are tens of thousands of databases in this system."
+The Internet is the sum of all the diverse computer networks it glues together - from corporate networks that link personal computers in single offices to networks that span continents with fiber-optic cable and satellite links. The glue is a common language, a set of shared protocols.
+What people choose to do on the world's largest computer network is entirely up to them. No one owns the Internet and no one, save its individual member networks, really governs it.
+This anarchic mother-of-all-networks is not the 100-lane data superhighway system of Vice President Al Gore's vision. In rough comparison, it's a sometimes bumpy four-lane pathway prone to congestion, with "under construction" signs aplenty.
+Along the Internet's fastest circuit, data moves at the rate of about one 1,600-page dictionary per second. In contrast, the data superhighway system would move the entire Encyclopedia Britannica in the same snap of a finger.
+Yet nothing in existence approaches the Internet's scope or potential.
+While more than half of it still is in the United States, "the net" spans some 50 countries, with a strong presence in Europe and Asia. Since 1988, it has been growing at a breathtaking rate - doubling every six to 15 months.
+Some 1.7 million computers now are directly linked to the Internet - from the icy stillness of McMurdo, Antarctica, to the bustle and heat of Bombay.
+A Moscow physics laboratory and computer programmers' cooperative got Russia's first connection late last year; Ecuador is among the newest nations aboard, and Turkey is due to hook up in weeks.
+To get on-line, you need only a computer and a modem - and as little as $ 20 a month, plus modest phone charges. Then, you can join a world in which supercomputers that crunch numbers with dizzying velocity converse with $ 500 desktop PCs.
+On the Internet now, the homebound senior citizen and the blue-collar worker are starting to rub keystrokes with the particle physicist, NASA scientist and seismologist who long have shuttled data along its circuits.
+Big business also is beginning to see the benefits of moving large amounts of information around the globe quickly and cheaply. Lockheed and Union Carbide are on the Internet. So is Ross Perot.
+The main U.S. backbone of the Internet, set up by the National Science Foundation in the mid-1980s, officially opened to private commerce last fall. Much to the dismay of some long-time "Internauts," business now accounts for the fastest-growing segment of traffic.
+In fact, the federal government is moving away from building and maintaining the next-generation Internet, leaving that essentially to private industry.
+The decision to "go private" has generated considerable debate about who, if anyone, will control the Internet's major arteries in coming years and how the costs will be shared. Will schools, libraries and hospitals be able to afford an Internet connection?
+Another issue is whether the information flow will be regulated and to what extent intelligence and law enforcement agencies should be permitted to monitor traffic. Some contend the Internet already is such a global hydra that it would be folly to try to harness it.
+Security, too, is a concern. The Cold War may be over, but espionage, now largely the work of agents of industry from rich, "friendly" nations like France and Japan, thrives on the Internet.
+And then there are computer vandals and virus-spawners. The case of the Cornell University student who paralyzed 6,000 computers on the Internet with a 1988 hacking experiment gone haywire provides a cautionary tale.
+More typically, though, Internet users are people like the North Carolina doctors killing cancer cells more effectively thanks to the three-dimensional imaging they get via three interlinked computers.
+Or it's Jack Witbrock, a Rangiora, New Zealand, minister keeping in touch by electronic mail with his son at Carnegie Mellon University in Pittsburgh and with a former parishioner in Switzerland.
+Or Kevin Grove, a blond 10-year-old in Hobson, Mont. - population 200 - who has "keypals" in Australia and Japan.
+The Internet is not to be confused with commercial on-line services such as CompuServe or America Online, which essentially are chaperoned information supermarkets, advice providers and conference halls - and which only recently began to offer electronic mail connections with the Internet.
+About 20,000 networks and computer bulletin boards, run by everyone from the National Institutes of Health to the neighborhood teen-ager, can be visited by modem riders on the electronic frontier.
+But they are not directly linked to the Internet. Only with full Internet connectivity can you do all this:
+-Work from your home terminal in a computer on a different network a continent away, or engage in a teleconference or global "chat."
+-Through another set of shared protocols, transfer files to and from remote computers, regardless of the languages their networks speak.
+-Search for and retrieve public domain data ranging from National Weather Service satellite photos to electronically published literary classics.
+Communication also can consist of posting messages in more than 2,500 discussion groups in which the tenor of discourse ranges from polite chitchat about the books of P.G. Wodehouse to bloodcurdling diatribes of Serbs and Croats.
+During the 1989 crackdown on the pro-democracy movement in China and the failed August 1991 coup in Moscow, some of these so-called "newsgroups" became vital clearinghouses for information.
+The applications are almost endless.
+Sitting at his office workstation, Peter Graham still marvels at his ability to connect remotely with a Library of Congress computer and peruse the original text of an essay written in ancient Rome about Homer.
+"If I've got a specific interest, it's a heck of a lot better than going to Washington and paying hotel bills," said Graham, a Rutgers University associate librarian for technical and networked information.
+Then he and his Macintosh Quadra are off to Wellington, New Zealand, where he discovers in a Victoria University directory that a former Oxford classmate he hasn't seen in 15 years now has an computer address.
+"This is what's happening," Graham said. "People are filtering into the network."
+So is information. By many estimates, the amount of material freely available on the Internet - from books and reports to software and graphics - is fast approaching the 100 million-title volume of the Library of Congress.
+This month, the national library made its entire electronic catalogue available on the Internet. By the year 2000, special projects associate Rhoda Canter hopes to have a "digitized core collection" on-line.
+Scientists, researchers and librarians may love the network, but techno-savvy politicians and community organizers have come to adore it.
+Amnesty International uses it for organizing letter-writing campaigns, and environmentalists from Costa Rica to Quebec keep in touch on it via the San Francisco-based EcoNet.
+Last summer's Earth Summit in Brazil was largely organized on the network, and the Clinton White House is using its "E-mail" capability to both listen to on-line voters and make available everything from the proposed national budget to verbatim texts of presidential appearances.
+Roughly 80 percent of the country's college students have access to the Internet - though many don't know it - but not too many elementary- and secondary-schoolteachers are yet hip to it.
+Cynthia Denton is among those in the know. Kevin Grove's computer mentor, she puts Montana schoolchildren in an open-sky world of wheat and cattle in regular touch with kids from Cambridge, Mass., to Yamato, Japan, and Kamchatka, Russia.
+"With the Internet, you're in the loop," Denton said. "You don't have to live in Chicago or Tokyo or New York or Los Angeles, and you can still be a significant contributor to the world."
+Still, despite all its advances, many aspects of the Internet are crude. Right now, it is largely a maze in which explorers would do well to leave markers along the way if they wish to locate a resource again.
+"Navigating it is kind of like spelunking without a flashlight, or our highway system with no road signs or maps," said Geoff Sears, director of the Institute for Global Communications in San Francisco. "You wander around and ask each person you bump into where you are and which way to go next."
+Users must learn new commands on unfamiliar computer systems and wrestle with information-searching tools still in fairly rudimentary stages of development.
+But who knows? Perhaps in a few years, your parents will be able see your daughter blow out the candles at her fourth birthday party while she listens to them sing "Happy Birthday."
+Only they'll be in Miami and she'll in Milwaukee - connected by the Internet.
+ 
+ Next: The Brave New World of Information.
+
+ 
+
+End of Document
